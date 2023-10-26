@@ -1,0 +1,5494 @@
+{
+    "viral respiratory infection (COVID-19 most likely)": {
+        "condition_name": "viral respiratory infection (COVID-19 most likely)",
+        "condition_slug": "viral respiratory infection (COVID-19 most likely)",
+        "age": {
+            "age-0-1-years": {
+                "slug": "age-0-1-years",
+                "probability": 1.9
+            },
+            "age-2-5-years": {
+                "slug": "age-2-5-years",
+                "probability": 7.8
+            },
+            "age-6-9-years": {
+                "slug": "age-6-9-years",
+                "probability": 5.4
+            },
+            "age-10-17-years": {
+                "slug": "age-10-17-years",
+                "probability": 9.2
+            },
+            "age-18-34-years": {
+                "slug": "age-18-34-years",
+                "probability": 25.9
+            },
+            "age-35-59-years": {
+                "slug": "age-35-59-years",
+                "probability": 40.3
+            },
+            "age-g-60-years": {
+                "slug": "age-g-60-years",
+                "probability": 9.5
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 52.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 48.0
+            }
+        },
+        "incidence": "1700/100000",
+        "symptoms": {
+            "Cough": {
+                "slug": "Cough",
+                "probability": 68.0,
+                "nlice": {
+                    "nature": {
+                        "Mucus": 33.4
+                    }
+                }
+            },
+            "Altered_breathing": {
+                "slug": "Altered_breathing",
+                "probability": 47.0,
+                "nlice": {
+                    "nature": {
+                        "Dyspnea": 100
+                    }
+                }
+            },
+            "Fatigue": {
+                "slug": "Fatigue",
+                "probability": 38.0,
+                "nlice": {}
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 13.600000000000001,
+                "nlice": {
+                    "location_main": {
+                        "Head": 95.0,
+                        "Chest": 5.0
+                    }
+                }
+            },
+            "Soreness": {
+                "slug": "Soreness",
+                "probability": 14.000000000000002,
+                "nlice": {
+                    "location_main": {
+                        "Throat": 100
+                    }
+                }
+            },
+            "Nausea_": {
+                "slug": "Nausea_",
+                "probability": 5.0,
+                "nlice": {}
+            },
+            "Vomiting": {
+                "slug": "Vomiting",
+                "probability": 5.0,
+                "nlice": {}
+            },
+            "Congestion": {
+                "slug": "Congestion",
+                "probability": 48.0,
+                "nlice": {
+                    "location_main": {
+                        "Nose": 100
+                    }
+                }
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 43.8,
+                "nlice": {
+                    "vas": {
+                        "37.8_-_38.5": 78.2,
+                        "38.5_-_40": 18.2,
+                        "40_-_43": 3.5
+                    }
+                }
+            },
+            "Discoloration": {
+                "slug": "Discoloration",
+                "probability": 0.13,
+                "nlice": {
+                    "nature": {
+                        "Blue": 100
+                    },
+                    "location": {
+                        "Mouth": 100,
+                        "Feet": 100
+                    },
+                    "location_main": {
+                        "Head": 100,
+                        "Lower_Extremities": 100
+                    }
+                }
+            }
+        }
+    },
+    "viral respiratory infection (Influenza most likely)": {
+        "condition_name": "viral respiratory infection (Influenza most likely)",
+        "condition_slug": "viral respiratory infection (Influenza most likely)",
+        "age": {
+            "age-0-1-years": {
+                "slug": "age-0-1-years",
+                "probability": 1.9
+            },
+            "age-2-5-years": {
+                "slug": "age-2-5-years",
+                "probability": 7.8
+            },
+            "age-6-9-years": {
+                "slug": "age-6-9-years",
+                "probability": 5.4
+            },
+            "age-10-17-years": {
+                "slug": "age-10-17-years",
+                "probability": 9.2
+            },
+            "age-18-34-years": {
+                "slug": "age-18-34-years",
+                "probability": 25.9
+            },
+            "age-35-59-years": {
+                "slug": "age-35-59-years",
+                "probability": 40.3
+            },
+            "age-g-60-years": {
+                "slug": "age-g-60-years",
+                "probability": 9.5
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 52.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 48.0
+            }
+        },
+        "incidence": "1700/100000",
+        "symptoms": {
+            "Cough": {
+                "slug": "Cough",
+                "probability": 88.0,
+                "nlice": {
+                    "nature": {
+                        "Mucus": 88.0
+                    }
+                }
+            },
+            "Altered_breathing": {
+                "slug": "Altered_breathing",
+                "probability": 6.7,
+                "nlice": {
+                    "nature": {
+                        "Dyspnea": 100
+                    }
+                }
+            },
+            "Fatigue": {
+                "slug": "Fatigue",
+                "probability": 24.0,
+                "nlice": {}
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 14.000000000000002,
+                "nlice": {
+                    "location_main": {
+                        "Chest": 5.0,
+                        "Head": 95.0
+                    }
+                }
+            },
+            "Soreness": {
+                "slug": "Soreness",
+                "probability": 53.800000000000004,
+                "nlice": {
+                    "location_main": {
+                        "Throat": 100
+                    }
+                }
+            },
+            "Nausea_": {
+                "slug": "Nausea_",
+                "probability": 13.0,
+                "nlice": {}
+            },
+            "Vomiting": {
+                "slug": "Vomiting",
+                "probability": 5.0,
+                "nlice": {}
+            },
+            "Congestion": {
+                "slug": "Congestion",
+                "probability": 53.800000000000004,
+                "nlice": {
+                    "location_main": {
+                        "Nose": 100
+                    }
+                }
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 88.1,
+                "nlice": {
+                    "vas": {
+                        ">_38.5": 100.0
+                    }
+                }
+            },
+            "Discoloration": {
+                "slug": "Discoloration",
+                "probability": 0.1,
+                "nlice": {
+                    "nature": {
+                        "Blue": 100
+                    },
+                    "location": {
+                        "Mouth": 100,
+                        "Feet": 100
+                    },
+                    "location_main": {
+                        "Head": 100,
+                        "Lower_Extremities": 100
+                    }
+                }
+            }
+        }
+    },
+    "Pneumonia (Pneumococcal most likely)": {
+        "condition_name": "Pneumonia (Pneumococcal most likely)",
+        "condition_slug": "Pneumonia (Pneumococcal most likely)",
+        "age": {
+            "age-0-1-years": {
+                "slug": "age-0-1-years",
+                "probability": 0.0
+            },
+            "age-2-5-years": {
+                "slug": "age-2-5-years",
+                "probability": 0.0
+            },
+            "age-6-9-years": {
+                "slug": "age-6-9-years",
+                "probability": 0.0
+            },
+            "age-10-17-years": {
+                "slug": "age-10-17-years",
+                "probability": 0.0
+            },
+            "age-18-34-years": {
+                "slug": "age-18-34-years",
+                "probability": 0.25
+            },
+            "age-35-59-years": {
+                "slug": "age-35-59-years",
+                "probability": 14.8
+            },
+            "age-60-74-years": {
+                "slug": "age-60-74-years",
+                "probability": 34.5
+            },
+            "age-g-74-years": {
+                "slug": "age-g-74-years",
+                "probability": 48.6
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 71.4
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 28.6
+            }
+        },
+        "incidence": "1015/100000",
+        "symptoms": {
+            "Fever": {
+                "slug": "Fever",
+                "probability": 83.3,
+                "nlice": {}
+            },
+            "Cough": {
+                "slug": "Cough",
+                "probability": 71.39999999999999,
+                "nlice": {
+                    "nature": {
+                        "Mucus": 59.5
+                    }
+                }
+            },
+            "Altered_breathing": {
+                "slug": "Altered_breathing",
+                "probability": 59.5,
+                "nlice": {
+                    "nature": {
+                        "Dyspnea": 85.0,
+                        "Wheezing": 15.0
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 4.8,
+                "nlice": {
+                    "location": {
+                        "Throat": 50.0
+                    },
+                    "location_main": {
+                        "Head": 100.0
+                    }
+                }
+            },
+            "Chills": {
+                "slug": "Chills",
+                "probability": 9.5,
+                "nlice": {}
+            },
+            "Altered_mental_state": {
+                "slug": "Altered_mental_state",
+                "probability": 9.5,
+                "nlice": {
+                    "nature": {
+                        "Confusion": 100
+                    }
+                }
+            },
+            "Runny_nose": {
+                "slug": "Runny_nose",
+                "probability": 2.3,
+                "nlice": {}
+            }
+        }
+    },
+    "Pneumonia (Adenovirus most likely)": {
+        "condition_name": "Pneumonia (Adenovirus most likely)",
+        "condition_slug": "Pneumonia (Adenovirus most likely)",
+        "age": {
+            "age-0-1-years": {
+                "slug": "age-0-1-years",
+                "probability": 1.536246615603
+            },
+            "age-1-4-years": {
+                "slug": "age-1-4-years",
+                "probability": 4.6087398468089
+            },
+            "age-5-14-years": {
+                "slug": "age-5-14-years",
+                "probability": 11.4611269862763
+            },
+            "age-15-29-years": {
+                "slug": "age-15-29-years",
+                "probability": 21.3235812629491
+            },
+            "age-30-44-years": {
+                "slug": "age-30-44-years",
+                "probability": 20.2551962493181
+            },
+            "age-45-59-years": {
+                "slug": "age-45-59-years",
+                "probability": 20.4205176044076
+            },
+            "age-60-74-years": {
+                "slug": "age-60-74-years",
+                "probability": 13.987739661922
+            },
+            "age-g-75-years": {
+                "slug": "age-g-75-years",
+                "probability": 6.4068517727151
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 50
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 50
+            }
+        },
+        "incidence": [],
+        "symptoms": {
+            "Fever": {
+                "slug": "Fever",
+                "probability": 98.7,
+                "nlice": {}
+            },
+            "Cough": {
+                "slug": "Cough",
+                "probability": 82.0,
+                "nlice": {
+                    "nature": {
+                        "Mucus": 89.0
+                    }
+                }
+            },
+            "Altered_breathing": {
+                "slug": "Altered_breathing",
+                "probability": 20.9,
+                "nlice": {
+                    "nature": {
+                        "Dyspnea": 94.1,
+                        "Wheezing": 5.9
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 40.0,
+                "nlice": {
+                    "nature": {
+                        "Myalgia": 32.0
+                    },
+                    "location_main": {
+                        "Head": 20.0,
+                        "Chest": 48.0
+                    }
+                }
+            },
+            "Chills": {
+                "slug": "Chills",
+                "probability": 25.0,
+                "nlice": {}
+            },
+            "Diahrroea": {
+                "slug": "Diahrroea",
+                "probability": 20.3,
+                "nlice": {}
+            },
+            "Anorexia": {
+                "slug": "Anorexia",
+                "probability": 1,
+                "nlice": {
+                    "nature": {
+                        "Confusion": 100
+                    }
+                }
+            },
+            "Lethargy": {
+                "slug": "Lethargy",
+                "probability": 83.0,
+                "nlice": {}
+            }
+        }
+    },
+    "COPD": {
+        "condition_name": "COPD",
+        "condition_slug": "COPD",
+        "age": {
+            "age-0-40-years": {
+                "slug": "age-0-40-years",
+                "probability": 0.13
+            },
+            "age-40-64-years": {
+                "slug": "age-40-64-years",
+                "probability": 36.8
+            },
+            "age-g-65-years": {
+                "slug": "age-g-65-years",
+                "probability": 58.8
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 87.5
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 21.1
+            }
+        },
+        "incidence": "7600/100000",
+        "symptoms": {
+            "Altered_breathing": {
+                "slug": "Altered_breathing",
+                "probability": 72.5,
+                "nlice": {
+                    "nature": {
+                        "Dyspnea": 65.0,
+                        "Wheezing": 35.0
+                    }
+                }
+            },
+            "Cough": {
+                "slug": "Cough",
+                "probability": 63.5,
+                "nlice": {
+                    "nature": {
+                        "Mucus": 95.0
+                    }
+                }
+            },
+            "Tightness": {
+                "slug": "Tightness",
+                "probability": 28.299999999999997,
+                "nlice": {
+                    "location_main": {
+                        "Chest": 100
+                    }
+                }
+            },
+            "Fatigue": {
+                "slug": "Fatigue",
+                "probability": 70.39999999999999,
+                "nlice": {}
+            }
+        }
+    },
+    "Asthma": {
+        "condition_name": "Asthma",
+        "condition_slug": "Asthma",
+        "age": {
+            "age-0-18-years": {
+                "slug": "age-0-18-years",
+                "probability": 35.0
+            },
+            "age-18-30-years": {
+                "slug": "age-18-30-years",
+                "probability": 30.0
+            },
+            "age-40-58-years": {
+                "slug": "age-40-58-years",
+                "probability": 25.0
+            },
+            "age-g-58-years": {
+                "slug": "age-g-58-years",
+                "probability": 20.0
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 29.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 71.0
+            }
+        },
+        "incidence": "7500/100000",
+        "symptoms": {
+            "Altered_breathing": {
+                "slug": "Altered_breathing",
+                "probability": 100.0,
+                "nlice": {
+                    "nature": {
+                        "Dyspnea": 95.0,
+                        "Wheezing": 75.0
+                    }
+                }
+            },
+            "Cough": {
+                "slug": "Cough",
+                "probability": 82.0,
+                "nlice": {}
+            },
+            "Tightness": {
+                "slug": "Tightness",
+                "probability": 81.0,
+                "nlice": {
+                    "location_main": {
+                        "Chest": 100
+                    }
+                }
+            }
+        }
+    },
+    "Pneumothorax": {
+        "condition_name": "Pneumothorax",
+        "condition_slug": "Pneumothorax",
+        "age": {
+            "age-0-14-years": {
+                "slug": "age-0-14-years",
+                "probability": 25.0
+            },
+            "age-20-40-years": {
+                "slug": "age-20-40-years",
+                "probability": 65.0
+            },
+            "age-41-75-years": {
+                "slug": "age-41-75-years",
+                "probability": 39.3
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 85.7
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 14.3
+            }
+        },
+        "incidence": "24/100000",
+        "symptoms": {
+            "Cough": {
+                "slug": "Cough",
+                "probability": 4.6,
+                "nlice": {
+                    "nature": {
+                        "Phlegm": 0.1
+                    }
+                }
+            },
+            "Altered_breathing": {
+                "slug": "Altered_breathing",
+                "probability": 92.4,
+                "nlice": {
+                    "nature": {
+                        "Dyspnea": 100
+                    }
+                }
+            },
+            "Fatigue": {
+                "slug": "Fatigue",
+                "probability": 0.13,
+                "nlice": {}
+            },
+            "Soreness": {
+                "slug": "Soreness",
+                "probability": 0.1,
+                "nlice": {
+                    "location_main": {
+                        "Throat": 100
+                    }
+                }
+            },
+            "Nausea_": {
+                "slug": "Nausea_",
+                "probability": 0.11,
+                "nlice": {}
+            },
+            "Vomiting": {
+                "slug": "Vomiting",
+                "probability": 0.12,
+                "nlice": {}
+            },
+            "Congestion": {
+                "slug": "Congestion",
+                "probability": 0.13,
+                "nlice": {
+                    "location_main": {
+                        "Nose": 100
+                    }
+                }
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 0.13,
+                "nlice": {}
+            },
+            "Discoloration": {
+                "slug": "Discoloration",
+                "probability": 12.4,
+                "nlice": {
+                    "nature": {
+                        "Blue": 100
+                    },
+                    "location": {
+                        "Mouth": 100,
+                        "Feet": 100
+                    },
+                    "location_main": {
+                        "Head": 100,
+                        "Lower_extremities": 100
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 85.0,
+                "nlice": {
+                    "nature": {
+                        "Stinging": 50.0
+                    },
+                    "location_main": {
+                        "Chest": 99.7,
+                        "Head": 0.3
+                    }
+                }
+            }
+        }
+    },
+    "Pulmonary edema (among young)": {
+        "condition_name": "Pulmonary edema (among young)",
+        "condition_slug": "Pulmonary edema (among young)",
+        "age": {
+            "age-0-64-years": {
+                "slug": "age-0-64-years",
+                "probability": 100.0
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 33.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 67.0
+            }
+        },
+        "incidence": "0,08 / 100000",
+        "symptoms": {
+            "Altered_breathing": {
+                "slug": "Altered_breathing",
+                "probability": 77.4,
+                "nlice": {
+                    "nature": {
+                        "Dyspnea": 100
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 60.0,
+                "nlice": {
+                    "location_main": {
+                        "Chest": 100
+                    }
+                }
+            },
+            "Dizziness": {
+                "slug": "Dizziness",
+                "probability": 10.4,
+                "nlice": {}
+            },
+            "Cough": {
+                "slug": "Cough",
+                "probability": 4.3,
+                "nlice": {
+                    "nature": {
+                        "Bloody": 100
+                    }
+                }
+            },
+            "Altered_mental_state": {
+                "slug": "Altered_mental_state",
+                "probability": 0.3,
+                "nlice": {
+                    "nature": {
+                        "Confusion": 100
+                    }
+                }
+            }
+        }
+    },
+    "Pulmonary edema (among old)": {
+        "condition_name": "Pulmonary edema (among old)",
+        "condition_slug": "Pulmonary edema (among old)",
+        "age": {
+            "age-65-84-years": {
+                "slug": "age-65-84-years",
+                "probability": 100.0
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 34.2
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 65.8
+            }
+        },
+        "incidence": "1.3 / 100000",
+        "symptoms": {
+            "Altered_breathing": {
+                "slug": "Altered_breathing",
+                "probability": 73.0,
+                "nlice": {
+                    "nature": {
+                        "Dyspnea": 100
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 48.699999999999996,
+                "nlice": {
+                    "location_main": {
+                        "Chest": 100
+                    }
+                }
+            },
+            "Dizziness": {
+                "slug": "Dizziness",
+                "probability": 13.200000000000001,
+                "nlice": {}
+            },
+            "Cough": {
+                "slug": "Cough",
+                "probability": 2.0,
+                "nlice": {
+                    "nature": {
+                        "Blood": 100
+                    }
+                }
+            },
+            "Altered_mental_state": {
+                "slug": "Altered_mental_state",
+                "probability": 2.0,
+                "nlice": {
+                    "nature": {
+                        "Confusion": 100
+                    }
+                }
+            }
+        }
+    },
+    "Pulmonary edema (among oldest)": {
+        "condition_name": "Pulmonary edema (among oldest)",
+        "condition_slug": "Pulmonary edema (among oldest)",
+        "age": {
+            "age-g-85-years": {
+                "slug": "age-g-85-years",
+                "probability": 100.0
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 34.2
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 65.8
+            }
+        },
+        "incidence": "14 / 100000",
+        "symptoms": {
+            "Altered_breathing": {
+                "slug": "Altered_breathing",
+                "probability": 74.3,
+                "nlice": {
+                    "nature": {
+                        "Dyspnea": 100
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 31.4,
+                "nlice": {
+                    "location_main": {
+                        "Chest": 100
+                    }
+                }
+            },
+            "Dizziness": {
+                "slug": "Dizziness",
+                "probability": 5.7,
+                "nlice": {}
+            },
+            "Cough": {
+                "slug": "Cough",
+                "probability": 0,
+                "nlice": {
+                    "nature": {
+                        "Blood": 100
+                    }
+                }
+            },
+            "Altered_mental_state": {
+                "slug": "Altered_mental_state",
+                "probability": 5.7,
+                "nlice": {
+                    "nature": {
+                        "Confusion": 100
+                    }
+                }
+            }
+        }
+    },
+    "Bacterial (Gastro)enteritis (Salmonella infection most likely)": {
+        "condition_name": "Bacterial (Gastro)enteritis (Salmonella infection most likely)",
+        "condition_slug": "Bacterial (Gastro)enteritis (Salmonella infection most likely)",
+        "age": {
+            "age-0-8-years": {
+                "slug": "age-0-8-years",
+                "probability": 16.4
+            },
+            "age-8-41-years": {
+                "slug": "age-8-41-years",
+                "probability": 68.2
+            },
+            "age-g-41-years": {
+                "slug": "age-g-41-years",
+                "probability": 16.4
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 53.22
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 46.78
+            }
+        },
+        "incidence": "26/100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 35.93,
+                "nlice": {
+                    "location_main": {
+                        "Abdomen": 100
+                    }
+                }
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 85.08,
+                "nlice": {
+                    "duration": {
+                        "<_3_days": 94.6,
+                        ">_3_days": 5.4
+                    }
+                }
+            },
+            "Altered_stool": {
+                "slug": "Altered_stool",
+                "probability": 15.25,
+                "nlice": {
+                    "nature": {
+                        "Bloody_Diarrhea": 100.0
+                    }
+                }
+            }
+        }
+    },
+    "Bacterial (Gastro)enteritis (Yersinia infection most likely)": {
+        "condition_name": "Bacterial (Gastro)enteritis (Yersinia infection most likely)",
+        "condition_slug": "Bacterial (Gastro)enteritis (Yersinia infection most likely)",
+        "age": {
+            "age-0-5-years": {
+                "slug": "age-0-5-years",
+                "probability": 92.31
+            },
+            "age-g-5-years": {
+                "slug": "age-g-5-years",
+                "probability": 7.69
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 55.17
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 44.83
+            }
+        },
+        "incidence": "7,2/100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 47.099999999999994,
+                "nlice": {
+                    "location_main": {
+                        "Abdomen": 100
+                    }
+                }
+            },
+            "Altered_stool": {
+                "slug": "Altered_stool",
+                "probability": 85.0,
+                "nlice": {
+                    "nature": {
+                        "Diarrhea": 100
+                    }
+                }
+            },
+            "Vomiting": {
+                "slug": "Vomiting",
+                "probability": 5.8999999999999995,
+                "nlice": {}
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 33.0,
+                "nlice": {}
+            },
+            "Tenesmus": {
+                "slug": "Tenesmus",
+                "probability": 0.8999999999999999,
+                "nlice": {}
+            },
+            "Flatulence": {
+                "slug": "Flatulence",
+                "probability": 67.0,
+                "nlice": {}
+            }
+        }
+    },
+    "Viral (Gastro)enteritis (Norovirus infection most likely)": {
+        "condition_name": "Viral (Gastro)enteritis (Norovirus infection most likely)",
+        "condition_slug": "Viral (Gastro)enteritis (Norovirus infection most likely)",
+        "age": {
+            "age-0-6-years": {
+                "slug": "age-0-6-years",
+                "probability": 6.3
+            },
+            "age-6-11-years": {
+                "slug": "age-6-11-years",
+                "probability": 21.7
+            },
+            "age-12-23-years": {
+                "slug": "age-12-23-years",
+                "probability": 38.9
+            },
+            "age-24-35-years": {
+                "slug": "age-24-35-years",
+                "probability": 18.8
+            },
+            "age-36-47-years": {
+                "slug": "age-36-47-years",
+                "probability": 9.3
+            },
+            "age-g-48-years": {
+                "slug": "age-g-48-years",
+                "probability": 5.9
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 55.3
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 44.7
+            }
+        },
+        "incidence": "1600/100000",
+        "symptoms": {
+            "Altered_stool": {
+                "slug": "Altered_stool",
+                "probability": 38.0,
+                "nlice": {
+                    "nature": {
+                        "Diarrhea": 100.0,
+                        "Mucus": 45.0,
+                        "Bloody": 23.0
+                    },
+                    "duration": {
+                        "0_-_5_days": 65.7,
+                        "5_-_8_days": 25.1,
+                        ">_8_days": 9.2
+                    }
+                }
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 65.42999999999999,
+                "nlice": {
+                    "vas": {
+                        ">_38.5": 31.9
+                    },
+                    "duration": {
+                        "0_-_2_days": 65.6,
+                        ">2_days": 35.4
+                    }
+                }
+            },
+            "Vomiting": {
+                "slug": "Vomiting",
+                "probability": 82.32000000000001,
+                "nlice": {
+                    "duration": {
+                        "0_-_2_days": 73.1,
+                        ">2_days": 26.9
+                    }
+                }
+            },
+            "Flatulence": {
+                "slug": "Flatulence",
+                "probability": 86.0,
+                "nlice": {}
+            }
+        }
+    },
+    "Giardiasis": {
+        "condition_name": "Giardiasis",
+        "condition_slug": "Giardiasis",
+        "age": {
+            "age-0-15-years": {
+                "slug": "age-0-15-years",
+                "probability": 16.57
+            },
+            "age-15-24-years": {
+                "slug": "age-15-24-years",
+                "probability": 16.14
+            },
+            "age-25-34-years": {
+                "slug": "age-25-34-years",
+                "probability": 17.94
+            },
+            "age-35-44-years": {
+                "slug": "age-35-44-years",
+                "probability": 16.8
+            },
+            "age-45-55-years": {
+                "slug": "age-45-55-years",
+                "probability": 15.98
+            },
+            "age-g-55-years": {
+                "slug": "age-g-55-years",
+                "probability": 16.57
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 39.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 61.0
+            }
+        },
+        "incidence": "6 /100000",
+        "symptoms": {
+            "Eruption": {
+                "slug": "Eruption",
+                "probability": 11.35,
+                "nlice": {
+                    "nature": {
+                        "Erythematous": 100.0
+                    },
+                    "location_main": {
+                        "Skin": 100
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 69.07,
+                "nlice": {
+                    "location": {
+                        "Hypochondric_right": 70.0
+                    },
+                    "location_main": {
+                        "Abdomen": 100
+                    },
+                    "excitation": {
+                        "When_pressing": 90.0
+                    }
+                }
+            },
+            "Swelling": {
+                "slug": "Swelling",
+                "probability": 7.5,
+                "nlice": {
+                    "location_main": {
+                        "Abdomen": 100
+                    }
+                }
+            },
+            "Altered_stool": {
+                "slug": "Altered_stool",
+                "probability": 18.48,
+                "nlice": {
+                    "nature": {
+                        "Diarrhea": 66.0
+                    }
+                }
+            },
+            "Vomiting": {
+                "slug": "Vomiting",
+                "probability": 25.6,
+                "nlice": {}
+            },
+            "Nausea": {
+                "slug": "Nausea",
+                "probability": 42.52,
+                "nlice": {}
+            },
+            "Altered_appetite": {
+                "slug": "Altered_appetite",
+                "probability": 71.24000000000001,
+                "nlice": {
+                    "nature": {
+                        "Decreased": 100
+                    }
+                }
+            },
+            "Flatulence": {
+                "slug": "Flatulence",
+                "probability": 78.0,
+                "nlice": {}
+            }
+        }
+    },
+    "Appendicitis": {
+        "condition_name": "Appendicitis",
+        "condition_slug": "Appendicitis",
+        "age": {
+            "age-0-6-years": {
+                "slug": "age-0-6-years",
+                "probability": 3.7
+            },
+            "age-7-13-years": {
+                "slug": "age-7-13-years",
+                "probability": 24.15
+            },
+            "age-14-17-years": {
+                "slug": "age-14-17-years",
+                "probability": 14.71
+            },
+            "age-18-25-years": {
+                "slug": "age-18-25-years",
+                "probability": 21.4
+            },
+            "age-26-35-years": {
+                "slug": "age-26-35-years",
+                "probability": 16.46
+            },
+            "age-36-65-years": {
+                "slug": "age-36-65-years",
+                "probability": 16.2
+            },
+            "age-g-65-years": {
+                "slug": "age-g-65-years",
+                "probability": 3.0
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 54.7
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 45.3
+            }
+        },
+        "incidence": "151/100000",
+        "symptoms": {
+            "Nausea": {
+                "slug": "Nausea",
+                "probability": 21.5,
+                "nlice": {}
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 90.0,
+                "nlice": {
+                    "vas": {
+                        "moderate": 25.0,
+                        "severe": 75.0
+                    },
+                    "nature": {
+                        "stinging": 50.0,
+                        "dull": 50.0
+                    },
+                    "location": {
+                        "Umbilical": 70.0,
+                        "Upper_abdomen": 45.0,
+                        "Right_Lower_Quadrant": 85.0
+                    },
+                    "location_main": {
+                        "Abdomen": 100
+                    },
+                    "duration": {
+                        "6_-_12_hours": 70.0,
+                        "12_-_18_hours": 25.0,
+                        "18_-_24_hours": 5.0
+                    },
+                    "onset": {
+                        "<_12_hours": 50.0,
+                        "12_-_24_hours": 30.0,
+                        "24_-_48_hours": 20.0
+                    },
+                    "excitation": {
+                        "When_pressing": 90.0,
+                        "During_car_travel_over_bumps": 90.0
+                    }
+                }
+            },
+            "Vomiting": {
+                "slug": "Vomiting",
+                "probability": 28.000000000000004,
+                "nlice": {}
+            },
+            "Altered_appetite": {
+                "slug": "Altered_appetite",
+                "probability": 62.5,
+                "nlice": {
+                    "nature": {
+                        "Decreased": 100
+                    }
+                }
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 43.5,
+                "nlice": {}
+            },
+            "Bloating": {
+                "slug": "Bloating",
+                "probability": 17.0,
+                "nlice": {}
+            },
+            "Altered_stool": {
+                "slug": "Altered_stool",
+                "probability": 2.1,
+                "nlice": {
+                    "nature": {
+                        "Constipation": 50.0
+                    },
+                    "frequency": {
+                        "Rarely": 26.2,
+                        "Often": 44.0
+                    }
+                }
+            },
+            "Discoloration": {
+                "slug": "Discoloration",
+                "probability": 0.01,
+                "nlice": {
+                    "nature": {
+                        "Yellow_(Jaundice)": 100
+                    }
+                }
+            },
+            "Flatulence": {
+                "slug": "Flatulence",
+                "probability": 3.0,
+                "nlice": {}
+            }
+        }
+    },
+    "Functional constipation": {
+        "condition_name": "Functional constipation",
+        "condition_slug": "Functional constipation",
+        "age": {
+            "age-35-49-years": {
+                "slug": "age-35-49-years",
+                "probability": 12.9
+            },
+            "age-50-64-years": {
+                "slug": "age-50-64-years",
+                "probability": 14.8
+            },
+            "age-g-65-years": {
+                "slug": "age-g-65-years",
+                "probability": 16.7
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 25.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 75.0
+            }
+        },
+        "incidence": "2000/100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 20.0,
+                "nlice": {
+                    "vas": {
+                        "mild": 78.0,
+                        "moderate_-_severe": 22.0
+                    },
+                    "location": {
+                        "Left_abdomen": 30.0,
+                        "Right_abdomen": 30.0,
+                        "Left_Lower_Quadrant": 20.0,
+                        "Umbilical_region": 10.0,
+                        "Epigastric_region": 10.0
+                    },
+                    "location_main": {
+                        "Abdomen": 100
+                    },
+                    "excitation": {
+                        "Worsening_after_meals": 22.0
+                    }
+                }
+            },
+            "Bloating": {
+                "slug": "Bloating",
+                "probability": 47.0,
+                "nlice": {}
+            },
+            "Altered_stool": {
+                "slug": "Altered_stool",
+                "probability": 61.0,
+                "nlice": {
+                    "nature": {
+                        "Constipation": 89.0,
+                        "Lumpy": 70.4
+                    },
+                    "frequency": {
+                        "Rarely": 26.0,
+                        "Often": 44.0
+                    }
+                }
+            },
+            "Flatulence": {
+                "slug": "Flatulence",
+                "probability": 55.00000000000001,
+                "nlice": {}
+            },
+            "Nausea": {
+                "slug": "Nausea",
+                "probability": 14.000000000000002,
+                "nlice": {}
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 0.8,
+                "nlice": {}
+            },
+            "Altered_appetite": {
+                "slug": "Altered_appetite",
+                "probability": 6.3,
+                "nlice": {
+                    "nature": {
+                        "Decreased": 100
+                    }
+                }
+            },
+            "Vomiting": {
+                "slug": "Vomiting",
+                "probability": 2.1,
+                "nlice": {}
+            },
+            "Discoloration": {
+                "slug": "Discoloration",
+                "probability": 0.02,
+                "nlice": {
+                    "nature": {
+                        "Yellow_(Jaundice)": 100
+                    }
+                }
+            }
+        }
+    },
+    "Acute pancreatitis": {
+        "condition_name": "Acute pancreatitis",
+        "condition_slug": "Acute pancreatitis",
+        "age": {
+            "age-0-1-years": {
+                "slug": "age-0-1-years",
+                "probability": 0.02
+            },
+            "age-2-5-years": {
+                "slug": "age-2-5-years",
+                "probability": 0.1
+            },
+            "age-6-9-years": {
+                "slug": "age-6-9-years",
+                "probability": 0.2
+            },
+            "age-10-17-years": {
+                "slug": "age-10-17-years",
+                "probability": 1.0
+            },
+            "age-18-34-years": {
+                "slug": "age-18-34-years",
+                "probability": 10.0
+            },
+            "age-35-59-years": {
+                "slug": "age-35-59-years",
+                "probability": 46.5
+            },
+            "age-g-60-years": {
+                "slug": "age-g-60-years",
+                "probability": 38.0
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 63.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 37.0
+            }
+        },
+        "incidence": "44/100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 92.5,
+                "nlice": {
+                    "nature": {
+                        "Radiating": 75.0
+                    },
+                    "location": {
+                        "Epigastric": 70.0,
+                        "Umbilical": 20.0,
+                        "Other": 10.0
+                    },
+                    "location_main": {
+                        "Abdomen": 95.0,
+                        "Back": 75.0
+                    },
+                    "onset": {
+                        "Hourly": 20.0,
+                        "Delayed": 65.0,
+                        "Daily": 15.0
+                    },
+                    "excitation": {
+                        "During_car_travel_over_bumps": 65.0
+                    }
+                }
+            },
+            "Nausea": {
+                "slug": "Nausea",
+                "probability": 72.0,
+                "nlice": {}
+            },
+            "Vomiting": {
+                "slug": "Vomiting",
+                "probability": 72.0,
+                "nlice": {}
+            },
+            "Altered_appetite": {
+                "slug": "Altered_appetite",
+                "probability": 85.0,
+                "nlice": {
+                    "nature": {
+                        "Decreased": 100
+                    }
+                }
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 60.0,
+                "nlice": {}
+            },
+            "Discoloration": {
+                "slug": "Discoloration",
+                "probability": 23.0,
+                "nlice": {
+                    "nature": {
+                        "Yellow_(Jaundice)": 100
+                    }
+                }
+            },
+            "Flatulence": {
+                "slug": "Flatulence",
+                "probability": 60.0,
+                "nlice": {}
+            },
+            "Bloating": {
+                "slug": "Bloating",
+                "probability": 18.0,
+                "nlice": {}
+            },
+            "Altered_stool": {
+                "slug": "Altered_stool",
+                "probability": 0.8,
+                "nlice": {
+                    "nature": {
+                        "Constipation": 77.0
+                    }
+                }
+            }
+        }
+    },
+    "IBS (Constipation type)": {
+        "condition_name": "IBS (Constipation type)",
+        "condition_slug": "IBS (Constipation type)",
+        "age": {
+            "age-35-49-years": {
+                "slug": "age-35-49-years",
+                "probability": 17.0
+            },
+            "age-50-64-years": {
+                "slug": "age-50-64-years",
+                "probability": 36.0
+            },
+            "age-g-65-years": {
+                "slug": "age-g-65-years",
+                "probability": 16.7
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 16.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 84.0
+            }
+        },
+        "incidence": "5000/100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 72.0,
+                "nlice": {
+                    "vas": {
+                        "mild": 33.0,
+                        "moderate_-_severe": 67.0
+                    },
+                    "nature": {
+                        "cramping": 90.0,
+                        "dull": 10.0
+                    },
+                    "location": {
+                        "Lower_abdomen": 30.5,
+                        "Umbilical": 30.5,
+                        "Other": 39.0
+                    },
+                    "location_main": {
+                        "Abdomen": 100
+                    },
+                    "excitation": {
+                        "Improvement_with_defecation": 58.0,
+                        "Worsening_after_meals": 52.0,
+                        "Worsening_with_stress": 50.0
+                    }
+                }
+            },
+            "Bloating": {
+                "slug": "Bloating",
+                "probability": 78.0,
+                "nlice": {}
+            },
+            "Altered_stool": {
+                "slug": "Altered_stool",
+                "probability": 78.0,
+                "nlice": {
+                    "nature": {
+                        "Constipation": 89.0,
+                        "Lumpy": 60.0
+                    },
+                    "frequency": {
+                        "Rarely": 42.6,
+                        "Often": 57.4
+                    }
+                }
+            },
+            "Flatulence": {
+                "slug": "Flatulence",
+                "probability": 55.00000000000001,
+                "nlice": {}
+            },
+            "Nausea": {
+                "slug": "Nausea",
+                "probability": 7.000000000000001,
+                "nlice": {}
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 0.2,
+                "nlice": {}
+            },
+            "Altered_appetite": {
+                "slug": "Altered_appetite",
+                "probability": 0.3,
+                "nlice": {}
+            },
+            "Vomiting": {
+                "slug": "Vomiting",
+                "probability": 1.1,
+                "nlice": {}
+            },
+            "Discoloration": {
+                "slug": "Discoloration",
+                "probability": 0.01,
+                "nlice": {
+                    "nature": {
+                        "Yellow_(Jaundice)": 100
+                    }
+                }
+            }
+        }
+    },
+    "Atrophic gastritis": {
+        "condition_name": "Atrophic gastritis",
+        "condition_slug": "Atrophic gastritis",
+        "age": {},
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 50
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 50
+            }
+        },
+        "incidence": "2000/100000",
+        "symptoms": {
+            "Regurgitation": {
+                "slug": "Regurgitation",
+                "probability": 12.1,
+                "nlice": {}
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 69.0,
+                "nlice": {
+                    "nature": {
+                        "Burning_sensation": 100
+                    },
+                    "location": {
+                        "Throat": 50.0,
+                        "Epigastric": 95.0
+                    },
+                    "location_main": {
+                        "Thorax": 40.0,
+                        "Abdomen": 60.0
+                    }
+                }
+            },
+            "Altered_appetite": {
+                "slug": "Altered_appetite",
+                "probability": 17.0,
+                "nlice": {
+                    "nature": {
+                        "Decreased": 100,
+                        "Early_satiety": 100
+                    },
+                    "excitation": {
+                        "Eating": 100
+                    }
+                }
+            }
+        }
+    },
+    "Gout": {
+        "condition_name": "Gout",
+        "condition_slug": "Gout",
+        "age": {
+            "age-0-45-years": {
+                "slug": "age-0-45-years",
+                "probability": 16.4
+            },
+            "age-45-75-years": {
+                "slug": "age-45-75-years",
+                "probability": 68.2
+            },
+            "age-g-75-years": {
+                "slug": "age-g-75-years",
+                "probability": 16.4
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 86.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 24.0
+            }
+        },
+        "incidence": "400/100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 94.0,
+                "nlice": {
+                    "vas": {
+                        "mild": 21.0,
+                        "severe": 79.0
+                    },
+                    "nature": {
+                        "Throbbing": 90.0
+                    },
+                    "location": {
+                        "any_MTP1": 33.0,
+                        "PIP_1": 4.0,
+                        "lesser_toes": 12.0,
+                        "midfoot": 8.0,
+                        "ankle": 30.0,
+                        "knee_joint": 42.0,
+                        "hip": 1.0,
+                        "shoulder": 3.0,
+                        "elbow": 11.0,
+                        "wrist": 15.0,
+                        "hand": 20.0,
+                        "CMC": 1.0
+                    },
+                    "location_main": {
+                        "Joints": 100
+                    },
+                    "duration": {
+                        "0_-_24_hours": 7.0,
+                        "1_-_7_days": 56.0,
+                        "8_-_14_days": 19.0,
+                        ">14_days": 11.0,
+                        "Indefinite": 7.0
+                    },
+                    "frequency": {
+                        "Periodic": 100.0
+                    }
+                }
+            },
+            "Slow_healing": {
+                "slug": "Slow_healing",
+                "probability": 25.0,
+                "nlice": {
+                    "location_main": {
+                        "Joints": 100
+                    }
+                }
+            },
+            "Eruption": {
+                "slug": "Eruption",
+                "probability": 87.0,
+                "nlice": {
+                    "nature": {
+                        "Erythematous": 100
+                    },
+                    "location_main": {
+                        "Joints": 100
+                    },
+                    "frequency": {
+                        "Periodic": 100.0
+                    }
+                }
+            },
+            "Tenderness": {
+                "slug": "Tenderness",
+                "probability": 92.0,
+                "nlice": {
+                    "location": {
+                        "any_MTP1": 33.0,
+                        "PIP_1": 4.0,
+                        "lesser_toes": 12.0,
+                        "midfoot": 8.0,
+                        "ankle": 30.0,
+                        "knee_joint": 42.0,
+                        "hip": 1.0,
+                        "shoulder": 3.0,
+                        "elbow": 11.0,
+                        "wrist": 15.0,
+                        "hand": 20.0,
+                        "CMC": 1.0
+                    },
+                    "location_main": {
+                        "Joints": 100
+                    },
+                    "frequency": {
+                        "Periodic": 100.0
+                    }
+                }
+            },
+            "Swelling": {
+                "slug": "Swelling",
+                "probability": 97.0,
+                "nlice": {
+                    "location": {
+                        "any_MTP1": 30.0,
+                        "PIP_1": 3.0,
+                        "lesser_toes": 40.0,
+                        "midfoot": 7.0,
+                        "ankle": 31.0,
+                        "knee_joint": 43.0,
+                        "hip": 1.0,
+                        "shoulder": 3.0,
+                        "elbow": 11.0,
+                        "wrist": 14.0,
+                        "hand": 20.0,
+                        "CMC": 1.0
+                    },
+                    "location_main": {
+                        "Joints": 100
+                    },
+                    "frequency": {
+                        "Periodic": 100.0
+                    }
+                }
+            },
+            "Difficulty_walking": {
+                "slug": "Difficulty_walking",
+                "probability": 97.0,
+                "nlice": {
+                    "frequency": {
+                        "Periodic": 100.0
+                    }
+                }
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 95.0,
+                "nlice": {}
+            }
+        }
+    },
+    "Rheumatoid arthritis (F)": {
+        "condition_name": "Rheumatoid arthritis (F)",
+        "condition_slug": "Rheumatoid arthritis (F)",
+        "age": {
+            "age-0-58-years": {
+                "slug": "age-0-58-years",
+                "probability": 50.0
+            },
+            "age-g-58-years": {
+                "slug": "age-g-58-years",
+                "probability": 50.0
+            }
+        },
+        "sex": {
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 100.0
+            },
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 0.0
+            }
+        },
+        "incidence": "750/100000",
+        "symptoms": {
+            "Discoloration": {
+                "slug": "Discoloration",
+                "probability": 2.0,
+                "nlice": {
+                    "nature": {
+                        "Blue": 100,
+                        "White": 100
+                    },
+                    "location_main": {
+                        "Extremities": 100
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 32.0,
+                "nlice": {
+                    "location_main": {
+                        "Joints": 100
+                    }
+                }
+            },
+            "Dryness": {
+                "slug": "Dryness",
+                "probability": 34.0,
+                "nlice": {
+                    "location_main": {
+                        "Mouth": 100
+                    }
+                }
+            },
+            "Altered_weight": {
+                "slug": "Altered_weight",
+                "probability": 44.0,
+                "nlice": {
+                    "nature": {
+                        "Weight_loss": 100
+                    }
+                }
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 30.0,
+                "nlice": {}
+            },
+            "Fatigue": {
+                "slug": "Fatigue",
+                "probability": 60.0,
+                "nlice": {}
+            },
+            "Altered_appetite": {
+                "slug": "Altered_appetite",
+                "probability": 54.0,
+                "nlice": {
+                    "nature": {
+                        "Decreased": 100
+                    }
+                }
+            },
+            "Stiffness": {
+                "slug": "Stiffness",
+                "probability": 76.0,
+                "nlice": {
+                    "location_main": {
+                        "Joints": 100
+                    },
+                    "excitation": {
+                        "Morning": 100.0
+                    }
+                }
+            },
+            "Disability": {
+                "slug": "Disability",
+                "probability": 57.99999999999999,
+                "nlice": {
+                    "vas": {
+                        "Severe": 95.0
+                    },
+                    "nature": {
+                        "Functional": 60.0
+                    }
+                }
+            },
+            "Cramping": {
+                "slug": "Cramping",
+                "probability": 1.3,
+                "nlice": {}
+            }
+        }
+    },
+    "Rheumatoid arthritis (M)": {
+        "condition_name": "Rheumatoid arthritis (M)",
+        "condition_slug": "Rheumatoid arthritis (M)",
+        "age": {
+            "age-0-58-years": {
+                "slug": "age-0-58-years",
+                "probability": 50.0
+            },
+            "age-g-58-years": {
+                "slug": "age-g-58-years",
+                "probability": 50.0
+            }
+        },
+        "sex": {
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 0.0
+            },
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 100.0
+            }
+        },
+        "incidence": "250/100000",
+        "symptoms": {
+            "Discoloration": {
+                "slug": "Discoloration",
+                "probability": 8.0,
+                "nlice": {
+                    "nature": {
+                        "Blue": 100,
+                        "White": 100
+                    },
+                    "location_main": {
+                        "Extremities": 100
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 46.0,
+                "nlice": {
+                    "location_main": {
+                        "Joints": 100
+                    }
+                }
+            },
+            "Dryness": {
+                "slug": "Dryness",
+                "probability": 22.0,
+                "nlice": {
+                    "location_main": {
+                        "Mouth": 100
+                    }
+                }
+            },
+            "Altered_weight": {
+                "slug": "Altered_weight",
+                "probability": 20.0,
+                "nlice": {
+                    "nature": {
+                        "Weight_loss": 100
+                    }
+                }
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 18.0,
+                "nlice": {}
+            },
+            "Fatigue": {
+                "slug": "Fatigue",
+                "probability": 30.0,
+                "nlice": {}
+            },
+            "Altered_appetite": {
+                "slug": "Altered_appetite",
+                "probability": 12.0,
+                "nlice": {
+                    "nature": {
+                        "Decreased": 100
+                    }
+                }
+            },
+            "Stiffness": {
+                "slug": "Stiffness",
+                "probability": 60.0,
+                "nlice": {
+                    "location_main": {
+                        "Joints": 100
+                    },
+                    "excitation": {
+                        "Morning": 100.0
+                    }
+                }
+            },
+            "Disability": {
+                "slug": "Disability",
+                "probability": 14.000000000000002,
+                "nlice": {
+                    "vas": {
+                        "Severe": 100.0
+                    },
+                    "nature": {
+                        "Functional": 85.0
+                    }
+                }
+            },
+            "Grating": {
+                "slug": "Grating",
+                "probability": 5.2,
+                "nlice": {
+                    "location_main": {
+                        "Joints": 100
+                    }
+                }
+            },
+            "Click/cracking": {
+                "slug": "Click/cracking",
+                "probability": 2.3,
+                "nlice": {
+                    "location_main": {
+                        "Joints": 100
+                    }
+                }
+            },
+            "Cramping": {
+                "slug": "Cramping",
+                "probability": 1.0999999999999999,
+                "nlice": {}
+            }
+        }
+    },
+    "Osteoarthritis": {
+        "condition_name": "Osteoarthritis",
+        "condition_slug": "Osteoarthritis",
+        "age": {},
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 50
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 50
+            }
+        },
+        "incidence": "1764/100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 99.0,
+                "nlice": {
+                    "nature": {
+                        "Sharp": 71.4,
+                        "Dull": 65.9,
+                        "Burning": 6.6,
+                        "Radiating": 1.1
+                    },
+                    "location_main": {
+                        "Joints": 100
+                    },
+                    "frequency": {
+                        "Sometimes": 25.3,
+                        "Constant": 23.1,
+                        "Often": 22.0
+                    },
+                    "excitation": {
+                        "Activity": 50.5,
+                        "Sleeping": 17.6
+                    }
+                }
+            },
+            "Disability": {
+                "slug": "Disability",
+                "probability": 73.6,
+                "nlice": {
+                    "nature": {
+                        "Functional": 95.0,
+                        "Locking_sensation": 5.0
+                    },
+                    "location_main": {
+                        "Joints": 100
+                    }
+                }
+            },
+            "Stiffness": {
+                "slug": "Stiffness",
+                "probability": 26.400000000000002,
+                "nlice": {
+                    "location_main": {
+                        "Joints": 100
+                    }
+                }
+            },
+            "Swelling": {
+                "slug": "Swelling",
+                "probability": 15.4,
+                "nlice": {
+                    "location_main": {
+                        "Joints": 100
+                    }
+                }
+            },
+            "Grating": {
+                "slug": "Grating",
+                "probability": 13.200000000000001,
+                "nlice": {
+                    "location_main": {
+                        "Joints": 100
+                    }
+                }
+            },
+            "Inactivity": {
+                "slug": "Inactivity",
+                "probability": 13.200000000000001,
+                "nlice": {}
+            },
+            "Weakness": {
+                "slug": "Weakness",
+                "probability": 6.6000000000000005,
+                "nlice": {}
+            },
+            "Cramping": {
+                "slug": "Cramping",
+                "probability": 3.3000000000000003,
+                "nlice": {}
+            },
+            "Click/cracking": {
+                "slug": "Click/cracking",
+                "probability": 3.3000000000000003,
+                "nlice": {
+                    "location_main": {
+                        "Joints": 100
+                    }
+                }
+            },
+            "Difficulty_walking": {
+                "slug": "Difficulty_walking",
+                "probability": 73.9,
+                "nlice": {
+                    "nature": {
+                        "Outside_the_home": 75.0,
+                        "Inside_the_home": 15.0
+                    }
+                }
+            }
+        }
+    },
+    "Migraine": {
+        "condition_name": "Migraine",
+        "condition_slug": "Migraine",
+        "age": {
+            "age-0-9-years": {
+                "slug": "age-0-9-years",
+                "probability": 4.0
+            },
+            "age-10-19-years": {
+                "slug": "age-10-19-years",
+                "probability": 40.0
+            },
+            "age-20-29-years": {
+                "slug": "age-20-29-years",
+                "probability": 26.0
+            },
+            "age-30-39-years": {
+                "slug": "age-30-39-years",
+                "probability": 18.0
+            },
+            "age-40-49-years": {
+                "slug": "age-40-49-years",
+                "probability": 6.4
+            },
+            "age-50-59-years": {
+                "slug": "age-50-59-years",
+                "probability": 3.4
+            },
+            "age-g-60-years": {
+                "slug": "age-g-60-years",
+                "probability": 1.7
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 8.6
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 17.5
+            }
+        },
+        "incidence": "15000/100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 98.5,
+                "nlice": {
+                    "vas": {
+                        "4": 4.4,
+                        "5": 10.8,
+                        "6": 13.5,
+                        "7": 20.8,
+                        "8": 24.5,
+                        "9": 17.5,
+                        "10": 60.9
+                    },
+                    "nature": {
+                        "Throbbing": 90.9,
+                        "Stabbing": 70.9,
+                        "Pressure": 90.1,
+                        "Aching": 86.5
+                    },
+                    "location": {
+                        "Unilateral": 66.57,
+                        "Bilateral": 33.34
+                    },
+                    "location_main": {
+                        "Head": 100
+                    },
+                    "duration": {
+                        "4-24h": 65.5,
+                        "24-72h": 21.3,
+                        "48-72h": 13.1
+                    },
+                    "onset": {
+                        "Hyperacute": 100.0
+                    }
+                }
+            },
+            "Nausea": {
+                "slug": "Nausea",
+                "probability": 77.60000000000001,
+                "nlice": {}
+            },
+            "Vomiting": {
+                "slug": "Vomiting",
+                "probability": 40.9,
+                "nlice": {}
+            },
+            "Photophobia_": {
+                "slug": "Photophobia_",
+                "probability": 83.7,
+                "nlice": {}
+            },
+            "Audiophobia": {
+                "slug": "Audiophobia",
+                "probability": 76.5,
+                "nlice": {}
+            },
+            "Aura": {
+                "slug": "Aura",
+                "probability": 0.13,
+                "nlice": {}
+            },
+            "Weakness": {
+                "slug": "Weakness",
+                "probability": 0.11,
+                "nlice": {
+                    "location_main": {
+                        "Extremities": 100
+                    }
+                }
+            },
+            "Altered_vision": {
+                "slug": "Altered_vision",
+                "probability": 0.1,
+                "nlice": {
+                    "nature": {
+                        "Double": 100
+                    }
+                }
+            },
+            "Stiffness": {
+                "slug": "Stiffness",
+                "probability": 0.11,
+                "nlice": {
+                    "location_main": {
+                        "Neck": 100
+                    }
+                }
+            },
+            "Altered_mental_state": {
+                "slug": "Altered_mental_state",
+                "probability": 0.12,
+                "nlice": {
+                    "nature": {
+                        "Loss_of_consciousness": 100
+                    }
+                }
+            },
+            "Focal_neurological_symptoms": {
+                "slug": "Focal_neurological_symptoms",
+                "probability": 1.3,
+                "nlice": {}
+            }
+        }
+    },
+    "Tension type headache": {
+        "condition_name": "Tension type headache",
+        "condition_slug": "Tension type headache",
+        "age": {
+            "age-0-9-years": {
+                "slug": "age-0-9-years",
+                "probability": 3.8
+            },
+            "age-10-19-years": {
+                "slug": "age-10-19-years",
+                "probability": 29.8
+            },
+            "age-20-29-years": {
+                "slug": "age-20-29-years",
+                "probability": 27.2
+            },
+            "age-30-39-years": {
+                "slug": "age-30-39-years",
+                "probability": 22.2
+            },
+            "age-40-49-years": {
+                "slug": "age-40-49-years",
+                "probability": 10.1
+            },
+            "age-50-59-years": {
+                "slug": "age-50-59-years",
+                "probability": 4.4
+            },
+            "age-g-60-years": {
+                "slug": "age-g-60-years",
+                "probability": 2.6
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 3.1
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 8.1
+            }
+        },
+        "incidence": "85000/100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 1,
+                "nlice": {
+                    "vas": {
+                        "Mild": 67.5,
+                        "Moderate": 29.4,
+                        "Severe": 3.1
+                    },
+                    "nature": {
+                        "Throbbing": 62.0,
+                        "Pressure": 38.0
+                    },
+                    "location": {
+                        "Unilateral": 26.4,
+                        "Bilateral": 73.6
+                    },
+                    "location_main": {
+                        "Head": 100
+                    },
+                    "onset": {
+                        "Hyperacute": 100.0
+                    }
+                }
+            },
+            "Nausea": {
+                "slug": "Nausea",
+                "probability": 6.0,
+                "nlice": {}
+            },
+            "Vomiting": {
+                "slug": "Vomiting",
+                "probability": 0.1,
+                "nlice": {}
+            },
+            "Photofobia": {
+                "slug": "Photofobia",
+                "probability": 45.1,
+                "nlice": {}
+            },
+            "Audiophobia": {
+                "slug": "Audiophobia",
+                "probability": 7.1,
+                "nlice": {}
+            },
+            "Aura": {
+                "slug": "Aura",
+                "probability": 0.13,
+                "nlice": {}
+            },
+            "Weakness": {
+                "slug": "Weakness",
+                "probability": 0.11,
+                "nlice": {
+                    "location_main": {
+                        "Extremities": 100
+                    }
+                }
+            },
+            "Altered_vision": {
+                "slug": "Altered_vision",
+                "probability": 0.1,
+                "nlice": {
+                    "nature": {
+                        "Double_vision": 100
+                    }
+                }
+            },
+            "Stiffness": {
+                "slug": "Stiffness",
+                "probability": 0.11,
+                "nlice": {
+                    "location_main": {
+                        "Neck": 100
+                    }
+                }
+            },
+            "Altered_mental_state": {
+                "slug": "Altered_mental_state",
+                "probability": 0.12,
+                "nlice": {
+                    "nature": {
+                        "Loss_of_consciousness": 100
+                    }
+                }
+            },
+            "Focal_neurological_symptoms": {
+                "slug": "Focal_neurological_symptoms",
+                "probability": 0.13,
+                "nlice": {}
+            }
+        }
+    },
+    "Subarachnoidal bleeding": {
+        "condition_name": "Subarachnoidal bleeding",
+        "condition_slug": "Subarachnoidal bleeding",
+        "age": {
+            "age-0-39-years": {
+                "slug": "age-0-39-years",
+                "probability": 2.0
+            },
+            "age-40-50-years": {
+                "slug": "age-40-50-years",
+                "probability": 20.0
+            },
+            "age-60-74-years": {
+                "slug": "age-60-74-years",
+                "probability": 66.0
+            },
+            "age-g-75-years": {
+                "slug": "age-g-75-years",
+                "probability": 14.0
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 57.9
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 42.1
+            }
+        },
+        "incidence": "9/100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 74.0,
+                "nlice": {
+                    "vas": {
+                        "Severe": 90.0
+                    },
+                    "nature": {
+                        "Thunderclap": 100.0,
+                        "Stabbing": 35.0
+                    },
+                    "location": {
+                        "Occiptal_region": 55.0,
+                        "Other": 45.0
+                    },
+                    "location_main": {
+                        "Head": 100
+                    },
+                    "duration": {
+                        "1-48_hours": 100.0
+                    },
+                    "onset": {
+                        "<_2_sec": 50.0,
+                        "60_-_300_sec": 19.0,
+                        ">_300_sec": 31.0
+                    }
+                }
+            },
+            "Nausea": {
+                "slug": "Nausea",
+                "probability": 77.0,
+                "nlice": {}
+            },
+            "Vomiting": {
+                "slug": "Vomiting",
+                "probability": 69.0,
+                "nlice": {}
+            },
+            "Aura": {
+                "slug": "Aura",
+                "probability": 0.2,
+                "nlice": {}
+            },
+            "Weakness": {
+                "slug": "Weakness",
+                "probability": 10.0,
+                "nlice": {
+                    "location": {
+                        "Other": 42.7,
+                        "Arms": 100
+                    },
+                    "location_main": {
+                        "Lower_extremities": 29.0,
+                        "Upper_extremities": 29.0
+                    }
+                }
+            },
+            "Altered_vision": {
+                "slug": "Altered_vision",
+                "probability": 4.0,
+                "nlice": {}
+            },
+            "Stiffness": {
+                "slug": "Stiffness",
+                "probability": 33.5,
+                "nlice": {
+                    "location_main": {
+                        "Neck": 100
+                    }
+                }
+            },
+            "Altered_mental_state": {
+                "slug": "Altered_mental_state",
+                "probability": 26.0,
+                "nlice": {
+                    "nature": {
+                        "Loss_of_consciousness": 100
+                    }
+                }
+            },
+            "Focal_neurological_symptoms": {
+                "slug": "Focal_neurological_symptoms",
+                "probability": 33.0,
+                "nlice": {}
+            }
+        }
+    },
+    "Bacterial meningitis": {
+        "condition_name": "Bacterial meningitis",
+        "condition_slug": "Bacterial meningitis",
+        "age": {
+            "age-0-4-years": {
+                "slug": "age-0-4-years",
+                "probability": 40.0
+            },
+            "age-5-14-years": {
+                "slug": "age-5-14-years",
+                "probability": 23.8
+            },
+            "age-15-24-years": {
+                "slug": "age-15-24-years",
+                "probability": 9.2
+            },
+            "age-25-64-years": {
+                "slug": "age-25-64-years",
+                "probability": 20.5
+            },
+            "age-g-65-years": {
+                "slug": "age-g-65-years",
+                "probability": 6.1
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 62.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 38.0
+            }
+        },
+        "incidence": "1,38/100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 87.0,
+                "nlice": {
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            },
+            "Nausea": {
+                "slug": "Nausea",
+                "probability": 74.0,
+                "nlice": {}
+            },
+            "Stiffness": {
+                "slug": "Stiffness",
+                "probability": 83.0,
+                "nlice": {
+                    "location_main": {
+                        "Neck": 100
+                    }
+                }
+            },
+            "Eruption": {
+                "slug": "Eruption",
+                "probability": 26.0,
+                "nlice": {
+                    "nature": {
+                        "Petechiae": 100
+                    },
+                    "location_main": {
+                        "Skin": 100
+                    }
+                }
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 77.0,
+                "nlice": {}
+            },
+            "Focal_neurological_symptoms": {
+                "slug": "Focal_neurological_symptoms",
+                "probability": 33.0,
+                "nlice": {}
+            },
+            "Altered_mental_state": {
+                "slug": "Altered_mental_state",
+                "probability": 69.0,
+                "nlice": {
+                    "nature": {
+                        "Confusion": 33.0,
+                        "Somnolence": 33.0,
+                        "Agitation": 33.0
+                    }
+                }
+            },
+            "Paresis_/_Paralysis": {
+                "slug": "Paresis_/_Paralysis",
+                "probability": 7.000000000000001,
+                "nlice": {
+                    "nature": {
+                        "Hemiparesis": 100
+                    }
+                }
+            },
+            "Seizure": {
+                "slug": "Seizure",
+                "probability": 5.0,
+                "nlice": {}
+            }
+        }
+    },
+    "Viral meningitis (Enterovirus)": {
+        "condition_name": "Viral meningitis (Enterovirus)",
+        "condition_slug": "Viral meningitis (Enterovirus)",
+        "age": {
+            "age-0-1-years": {
+                "slug": "age-0-1-years",
+                "probability": 80.74
+            },
+            "age-1-4-years": {
+                "slug": "age-1-4-years",
+                "probability": 5.4
+            },
+            "age-5-19-years": {
+                "slug": "age-5-19-years",
+                "probability": 5.3
+            },
+            "age-20-44-years": {
+                "slug": "age-20-44-years",
+                "probability": 5.4
+            },
+            "age-45-64-years": {
+                "slug": "age-45-64-years",
+                "probability": 1.52
+            },
+            "age-g-65-years": {
+                "slug": "age-g-65-years",
+                "probability": 1.52
+            }
+        },
+        "sex": {
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 47.1
+            },
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 52.9
+            }
+        },
+        "incidence": "2,13 / 100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 1,
+                "nlice": {
+                    "location_main": {
+                        "Head": 90.1,
+                        "Throat": 8.1
+                    }
+                }
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 88.0,
+                "nlice": {}
+            },
+            "Nausea": {
+                "slug": "Nausea",
+                "probability": 72.0,
+                "nlice": {}
+            },
+            "Vomiting": {
+                "slug": "Vomiting",
+                "probability": 49.0,
+                "nlice": {}
+            },
+            "Dizziness": {
+                "slug": "Dizziness",
+                "probability": 3.0,
+                "nlice": {}
+            },
+            "Altered_mental_state": {
+                "slug": "Altered_mental_state",
+                "probability": 0.3,
+                "nlice": {
+                    "nature": {
+                        "Confusion": 33.0,
+                        "Somnolence": 33.0,
+                        "Agitation": 33.0
+                    }
+                }
+            },
+            "Stiffness": {
+                "slug": "Stiffness",
+                "probability": 53.0,
+                "nlice": {
+                    "location_main": {
+                        "Neck": 100
+                    }
+                }
+            },
+            "Cough": {
+                "slug": "Cough",
+                "probability": 4.0,
+                "nlice": {
+                    "nature": {
+                        "Sputum": 100
+                    }
+                }
+            },
+            "Runny_nose": {
+                "slug": "Runny_nose",
+                "probability": 4.0,
+                "nlice": {}
+            },
+            "Altered_stool": {
+                "slug": "Altered_stool",
+                "probability": 4.0,
+                "nlice": {
+                    "nature": {
+                        "Diarrhea": 100
+                    }
+                }
+            }
+        }
+    },
+    "Viral meningitis (Varicella zoster virus)": {
+        "condition_name": "Viral meningitis (Varicella zoster virus)",
+        "condition_slug": "Viral meningitis (Varicella zoster virus)",
+        "age": {
+            "age-0-1-years": {
+                "slug": "age-0-1-years",
+                "probability": 80.74
+            },
+            "age-1-4-years": {
+                "slug": "age-1-4-years",
+                "probability": 5.4
+            },
+            "age-5-19-years": {
+                "slug": "age-5-19-years",
+                "probability": 5.3
+            },
+            "age-20-44-years": {
+                "slug": "age-20-44-years",
+                "probability": 5.4
+            },
+            "age-45-64-years": {
+                "slug": "age-45-64-years",
+                "probability": 1.52
+            },
+            "age-g-65-years": {
+                "slug": "age-g-65-years",
+                "probability": 1.52
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 50
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 50
+            }
+        },
+        "incidence": "3 / 100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 92.0,
+                "nlice": {
+                    "location_main": {
+                        "Head": 79.3,
+                        "Throat": 17.2,
+                        "Abdomen": 3.4
+                    }
+                }
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 56.00000000000001,
+                "nlice": {}
+            },
+            "Nausea": {
+                "slug": "Nausea",
+                "probability": 64.0,
+                "nlice": {}
+            },
+            "Vomiting": {
+                "slug": "Vomiting",
+                "probability": 32.0,
+                "nlice": {}
+            },
+            "Dizziness": {
+                "slug": "Dizziness",
+                "probability": 8.0,
+                "nlice": {}
+            },
+            "Altered_mental_state": {
+                "slug": "Altered_mental_state",
+                "probability": 0.3,
+                "nlice": {
+                    "nature": {
+                        "Confusion": 33.0,
+                        "Somnolence": 33.0,
+                        "Agitation": 33.0
+                    }
+                }
+            },
+            "Stiffness": {
+                "slug": "Stiffness",
+                "probability": 28.000000000000004,
+                "nlice": {
+                    "location_main": {
+                        "Neck": 100
+                    }
+                }
+            },
+            "Cough": {
+                "slug": "Cough",
+                "probability": 8.0,
+                "nlice": {
+                    "nature": {
+                        "Mucus": 100
+                    }
+                }
+            },
+            "Runny_nose": {
+                "slug": "Runny_nose",
+                "probability": 4.0,
+                "nlice": {}
+            },
+            "Altered_stool": {
+                "slug": "Altered_stool",
+                "probability": 12.0,
+                "nlice": {
+                    "nature": {
+                        "Diarrhea": 100
+                    }
+                }
+            }
+        }
+    },
+    "Hernia Nuclei Pulposi (Radicular syndrome)": {
+        "condition_name": "Hernia Nuclei Pulposi (Radicular syndrome)",
+        "condition_slug": "Hernia Nuclei Pulposi (Radicular syndrome)",
+        "age": {
+            "age-0-32-years": {
+                "slug": "age-0-32-years",
+                "probability": 15.8
+            },
+            "age-32-60-years": {
+                "slug": "age-32-60-years",
+                "probability": 68.0
+            },
+            "age-g-60-years": {
+                "slug": "age-g-60-years",
+                "probability": 15.8
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 50
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 50
+            }
+        },
+        "incidence": "1200/100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 99.0,
+                "nlice": {
+                    "nature": {
+                        "Radiating": 100
+                    },
+                    "location": {
+                        "Lumbar-_paravertebral_or_SI": 34.8,
+                        "Calf": 27.3
+                    },
+                    "location_main": {
+                        "Back": 100,
+                        "Lower_extremities": 100
+                    },
+                    "duration": {
+                        "<4000_hours": 35.0,
+                        ">4000_hours": 59.0
+                    },
+                    "excitation": {
+                        "Walking": 100
+                    }
+                }
+            },
+            "Altered_sensation": {
+                "slug": "Altered_sensation",
+                "probability": 97.5,
+                "nlice": {
+                    "nature": {
+                        "Numbness": 50.0,
+                        "Tingling": 50.0
+                    },
+                    "location_main": {
+                        "Lower_extremities": 100
+                    }
+                }
+            },
+            "Weakness": {
+                "slug": "Weakness",
+                "probability": 55.00000000000001,
+                "nlice": {
+                    "location_main": {
+                        "Lower_extremities": 100
+                    }
+                }
+            },
+            "Pain_relief_": {
+                "slug": "Pain_relief_",
+                "probability": 32.0,
+                "nlice": {
+                    "excitation": {
+                        "At_rest": 100
+                    }
+                }
+            },
+            "Incontinence": {
+                "slug": "Incontinence",
+                "probability": 0.2,
+                "nlice": {}
+            }
+        }
+    },
+    "Lumbago (Muscle strain)": {
+        "condition_name": "Lumbago (Muscle strain)",
+        "condition_slug": "Lumbago (Muscle strain)",
+        "age": {
+            "age-0-30-years": {
+                "slug": "age-0-30-years",
+                "probability": 3.0
+            },
+            "age-31-50-years": {
+                "slug": "age-31-50-years",
+                "probability": 57.0
+            },
+            "age-g-50-years": {
+                "slug": "age-g-50-years",
+                "probability": 40.0
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 60.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 40.0
+            }
+        },
+        "incidence": "15000/100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 85.0,
+                "nlice": {
+                    "nature": {
+                        "Radiating": 100
+                    },
+                    "location": {
+                        "Lumbar-paravertebral_or_SI": 90.4,
+                        "Calf": 4.2
+                    },
+                    "location_main": {
+                        "Back,_lower": 100,
+                        "Lower_extremities": 100
+                    },
+                    "excitation": {
+                        "Walking": 100
+                    }
+                }
+            },
+            "Weakness": {
+                "slug": "Weakness",
+                "probability": 4.0,
+                "nlice": {
+                    "location_main": {
+                        "Extremities": 100
+                    }
+                }
+            },
+            "Pain_relief": {
+                "slug": "Pain_relief",
+                "probability": 10.0,
+                "nlice": {
+                    "excitation": {
+                        "Sitting/bending_forward": 50.0,
+                        "Walking_bent_forward": 50.0
+                    }
+                }
+            },
+            "Altered_sensation": {
+                "slug": "Altered_sensation",
+                "probability": 1.0,
+                "nlice": {
+                    "nature": {
+                        "Radiating": 100.0
+                    },
+                    "location_main": {
+                        "Lower_extremities": 100
+                    }
+                }
+            },
+            "Incontinence": {
+                "slug": "Incontinence",
+                "probability": 0.4,
+                "nlice": {}
+            }
+        }
+    },
+    "Cauda equina (Radicular Syndrome)": {
+        "condition_name": "Cauda equina (Radicular Syndrome)",
+        "condition_slug": "Cauda equina (Radicular Syndrome)",
+        "age": {
+            "age-0-40-years": {
+                "slug": "age-0-40-years",
+                "probability": 10.5
+            },
+            "age-40-50-years": {
+                "slug": "age-40-50-years",
+                "probability": 57.0
+            },
+            "age-g-50-years": {
+                "slug": "age-g-50-years",
+                "probability": 32.5
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 50.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 50.0
+            }
+        },
+        "incidence": "0,6/100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 87.5,
+                "nlice": {
+                    "location": {
+                        "Lumbar_-paravertebral_or_SI": 22.2,
+                        "Calf": 0.08
+                    },
+                    "location_main": {
+                        "Back-_lower": 100,
+                        "Lower_extremities": 100
+                    },
+                    "excitation": {
+                        "Walking": 100
+                    }
+                }
+            },
+            "Altered_sensation": {
+                "slug": "Altered_sensation",
+                "probability": 40.0,
+                "nlice": {
+                    "nature": {
+                        "Tingling": 50.0,
+                        "Numbness": 50.0
+                    },
+                    "location": {
+                        "Peri-anal-inner_thighs": 100.0
+                    },
+                    "location_main": {
+                        "Hip": 100
+                    }
+                }
+            },
+            "Pain_relief_": {
+                "slug": "Pain_relief_",
+                "probability": 2.0,
+                "nlice": {
+                    "excitation": {
+                        "At_rest": 100
+                    }
+                }
+            },
+            "Weakness": {
+                "slug": "Weakness",
+                "probability": 14.000000000000002,
+                "nlice": {
+                    "location_main": {
+                        "Extremities": 100
+                    }
+                }
+            },
+            "Incontinence": {
+                "slug": "Incontinence",
+                "probability": 4.0,
+                "nlice": {}
+            }
+        }
+    },
+    "Lumbar spinal stenosis (Radicular syndrome)": {
+        "condition_name": "Lumbar spinal stenosis (Radicular syndrome)",
+        "condition_slug": "Lumbar spinal stenosis (Radicular syndrome)",
+        "age": {
+            "age-0-60-years": {
+                "slug": "age-0-60-years",
+                "probability": 14.9
+            },
+            "age-60-70-years": {
+                "slug": "age-60-70-years",
+                "probability": 29.1
+            },
+            "age-g-70-years": {
+                "slug": "age-g-70-years",
+                "probability": 57.0
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 50.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 50.0
+            }
+        },
+        "incidence": "2/100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 99.0,
+                "nlice": {
+                    "nature": {
+                        "Radiating": 100
+                    },
+                    "location": {
+                        "Lumbar_region": 34.35
+                    },
+                    "location_main": {
+                        "Back-lower": 100,
+                        "Lower_extremities": 37.4
+                    },
+                    "duration": {
+                        "<4000_hours": 35.0,
+                        ">4000_hours": 59.0
+                    },
+                    "excitation": {
+                        "Walking": 100,
+                        "When_standing_up": 86.3,
+                        "When_standing": 93.6
+                    }
+                }
+            },
+            "Altered_sensation": {
+                "slug": "Altered_sensation",
+                "probability": 74.9,
+                "nlice": {
+                    "nature": {
+                        "Numbness": 50.0,
+                        "Tingling": 50.0
+                    },
+                    "location_main": {
+                        "Lower_extremities": 100
+                    },
+                    "duration": {
+                        "<4000_hours": 35.0,
+                        ">4000_hours": 59.0
+                    },
+                    "excitation": {
+                        "When_standing": 93.6
+                    }
+                }
+            },
+            "Weakness": {
+                "slug": "Weakness",
+                "probability": 86.0,
+                "nlice": {
+                    "location_main": {
+                        "Extremities": 100
+                    },
+                    "duration": {
+                        "<4000_hours": 35.0,
+                        ">4000_hours": 59.0
+                    }
+                }
+            },
+            "Pain_relief_": {
+                "slug": "Pain_relief_",
+                "probability": 49.0,
+                "nlice": {
+                    "excitation": {
+                        "Sitting_or_bending_forward": 42.0,
+                        "Walking_bent_forward": 56.0
+                    }
+                }
+            },
+            "Incontinence_": {
+                "slug": "Incontinence_",
+                "probability": 2.0,
+                "nlice": {}
+            }
+        }
+    },
+    "Carpal tunnel syndrome": {
+        "condition_name": "Carpal tunnel syndrome",
+        "condition_slug": "Carpal tunnel syndrome",
+        "age": {
+            "age-40-50-years": {
+                "slug": "age-40-50-years",
+                "probability": 80.0
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 50
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 50
+            }
+        },
+        "incidence": "276 / 100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 99.0,
+                "nlice": {
+                    "location": {
+                        "Neck": 17.9
+                    },
+                    "location_main": {
+                        "Wrist": 38.4,
+                        "Upper_extremities": 43.6,
+                        "Head": 100
+                    },
+                    "excitation": {
+                        "Night": 100
+                    }
+                }
+            },
+            "Altered_movement": {
+                "slug": "Altered_movement",
+                "probability": 96.0,
+                "nlice": {
+                    "nature": {
+                        "Tremor": 100,
+                        "Decreased_coordination": 45.4
+                    },
+                    "location": {
+                        "Hand": 100
+                    },
+                    "location_main": {
+                        "Upper_extremities": 100
+                    }
+                }
+            },
+            "Altered_sensation": {
+                "slug": "Altered_sensation",
+                "probability": 97.0,
+                "nlice": {
+                    "nature": {
+                        "Numbness": 33.0,
+                        "Tingling": 33.0,
+                        "Radiating": 33.0
+                    },
+                    "location": {
+                        "Hand": 28.4,
+                        "Neck": 9.4,
+                        "Handpalm": 100,
+                        "Thumb": 100,
+                        "Index_finger": 100,
+                        "Middle_finger": 100
+                    },
+                    "location_main": {
+                        "Hand": 43.1,
+                        "Lower_extremities": 100,
+                        "Head": 100,
+                        "Upper_extremities": 18.9
+                    },
+                    "excitation": {
+                        "When_holding_object": 100.0
+                    }
+                }
+            },
+            "Weakness": {
+                "slug": "Weakness",
+                "probability": 13.3,
+                "nlice": {
+                    "location": {
+                        "Thumb": 62.4,
+                        "Forearm": 37.5
+                    },
+                    "location_main": {
+                        "Upper_extremities": 100
+                    }
+                }
+            }
+        }
+    },
+    "Otitis media acuta": {
+        "condition_name": "Otitis media acuta",
+        "condition_slug": "Otitis media acuta",
+        "age": {
+            "age-0-3-years": {
+                "slug": "age-0-3-years",
+                "probability": 0.0
+            },
+            "age-3-3-years": {
+                "slug": "age-3-3-years",
+                "probability": 22.3
+            },
+            "age-4-4-years": {
+                "slug": "age-4-4-years",
+                "probability": 29.0
+            },
+            "age-5-5-years": {
+                "slug": "age-5-5-years",
+                "probability": 27.0
+            },
+            "age-6-6-years": {
+                "slug": "age-6-6-years",
+                "probability": 21.0
+            },
+            "age-g-6-years": {
+                "slug": "age-g-6-years",
+                "probability": 0.0
+            }
+        },
+        "sex": {
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 48.7
+            },
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 51.3
+            }
+        },
+        "incidence": "25600/100000",
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 63.0,
+                "nlice": {
+                    "location": {
+                        "Ear": 54.0
+                    },
+                    "location_main": {
+                        "Head": 5.0
+                    }
+                }
+            },
+            "Altered_behaviour": {
+                "slug": "Altered_behaviour",
+                "probability": 42.0,
+                "nlice": {
+                    "nature": {
+                        "Rubbing": 100
+                    },
+                    "location": {
+                        "Ear": 100
+                    },
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            },
+            "Congestion": {
+                "slug": "Congestion",
+                "probability": 8.0,
+                "nlice": {
+                    "location": {
+                        "Ear": 100
+                    },
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            },
+            "Crying": {
+                "slug": "Crying",
+                "probability": 55.00000000000001,
+                "nlice": {
+                    "vas": {
+                        "Excessive": 100
+                    }
+                }
+            },
+            "Runny_nose": {
+                "slug": "Runny_nose",
+                "probability": 75.0,
+                "nlice": {
+                    "nature": {
+                        "Purulent": 24.0
+                    }
+                }
+            },
+            "Altered_breathing": {
+                "slug": "Altered_breathing",
+                "probability": 6.0,
+                "nlice": {
+                    "nature": {
+                        "Wheezing": 100
+                    }
+                }
+            },
+            "Altered_stool": {
+                "slug": "Altered_stool",
+                "probability": 8.0,
+                "nlice": {
+                    "nature": {
+                        "Diarrhea": 100
+                    }
+                }
+            },
+            "Altered_appetite": {
+                "slug": "Altered_appetite",
+                "probability": 36.0,
+                "nlice": {
+                    "nature": {
+                        "Decreased": 100
+                    }
+                }
+            },
+            "Disability": {
+                "slug": "Disability",
+                "probability": 2.0,
+                "nlice": {
+                    "nature": {
+                        "Hearing": 100
+                    }
+                }
+            },
+            "Vomiting": {
+                "slug": "Vomiting",
+                "probability": 11.0,
+                "nlice": {}
+            },
+            "Fatigue": {
+                "slug": "Fatigue",
+                "probability": 28.000000000000004,
+                "nlice": {}
+            },
+            "Cough": {
+                "slug": "Cough",
+                "probability": 47.0,
+                "nlice": {}
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 40.0,
+                "nlice": {}
+            },
+            "Inflammation": {
+                "slug": "Inflammation",
+                "probability": 6.0,
+                "nlice": {
+                    "location": {
+                        "Eye_(Conjunctiva)": 100
+                    },
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            },
+            "Soreness": {
+                "slug": "Soreness",
+                "probability": 13.0,
+                "nlice": {
+                    "location": {
+                        "Throat": 100
+                    },
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            }
+        }
+    },
+    "(Acute) Mastoiditis": {
+        "condition_name": "(Acute) Mastoiditis",
+        "condition_slug": "(Acute) Mastoiditis",
+        "age": {
+            "age-0-1-years": {
+                "slug": "age-0-1-years",
+                "probability": 17.0
+            },
+            "age-1-4-years": {
+                "slug": "age-1-4-years",
+                "probability": 37.0
+            },
+            "age-5-9-years": {
+                "slug": "age-5-9-years",
+                "probability": 17.0
+            },
+            "age-10-14-years": {
+                "slug": "age-10-14-years",
+                "probability": 17.0
+            },
+            "age-15-17-years": {
+                "slug": "age-15-17-years",
+                "probability": 4.0
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 50
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 50
+            }
+        },
+        "incidence": "3,9 / 100000",
+        "symptoms": {
+            "Fever": {
+                "slug": "Fever",
+                "probability": 95.0,
+                "nlice": {}
+            },
+            "Runny_nose": {
+                "slug": "Runny_nose",
+                "probability": 63.0,
+                "nlice": {}
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 57.99999999999999,
+                "nlice": {
+                    "location": {
+                        "Ear": 72.0,
+                        "Post_aurical_(behind_ear)": 28.0
+                    },
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            },
+            "Vomiting": {
+                "slug": "Vomiting",
+                "probability": 14.000000000000002,
+                "nlice": {}
+            },
+            "Discharge": {
+                "slug": "Discharge",
+                "probability": 34.0,
+                "nlice": {
+                    "location": {
+                        "Ear": 100
+                    },
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            },
+            "Congestion": {
+                "slug": "Congestion",
+                "probability": 1,
+                "nlice": {
+                    "location": {
+                        "Ear": 100
+                    },
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            },
+            "Altered_appetite": {
+                "slug": "Altered_appetite",
+                "probability": 18.0,
+                "nlice": {
+                    "nature": {
+                        "Decreased": 100
+                    }
+                }
+            },
+            "Discoloration": {
+                "slug": "Discoloration",
+                "probability": 44.3,
+                "nlice": {
+                    "nature": {
+                        "Red_(Erythema)": 100
+                    },
+                    "location": {
+                        "Post_aurical_(behind_ear)": 100
+                    },
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            },
+            "Swelling": {
+                "slug": "Swelling",
+                "probability": 35.199999999999996,
+                "nlice": {
+                    "location": {
+                        "Post_aurical_(behind_ear)": 100
+                    },
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            }
+        }
+    },
+    "Otitis externa": {
+        "condition_name": "Otitis externa",
+        "condition_slug": "Otitis externa",
+        "age": {
+            "age-0-15-years": {
+                "slug": "age-0-15-years",
+                "probability": 44.95
+            },
+            "age-16-30-years": {
+                "slug": "age-16-30-years",
+                "probability": 19.6
+            },
+            "age-31-45-years": {
+                "slug": "age-31-45-years",
+                "probability": 17.23
+            },
+            "age-46-60-years": {
+                "slug": "age-46-60-years",
+                "probability": 13.98
+            },
+            "age-g-60-years": {
+                "slug": "age-g-60-years",
+                "probability": 4.24
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 50
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 50
+            }
+        },
+        "incidence": "400/100000",
+        "symptoms": {
+            "Inflammation": {
+                "slug": "Inflammation",
+                "probability": 1,
+                "nlice": {
+                    "location": {
+                        "Ear": 100
+                    },
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            },
+            "Altered_sensation": {
+                "slug": "Altered_sensation",
+                "probability": 60.0,
+                "nlice": {
+                    "nature": {
+                        "Itchiness": 100
+                    },
+                    "location": {
+                        "Ear": 100
+                    },
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            },
+            "Congestion": {
+                "slug": "Congestion",
+                "probability": 22.0,
+                "nlice": {
+                    "location": {
+                        "Ear": 100
+                    },
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            },
+            "Discharge": {
+                "slug": "Discharge",
+                "probability": 15.6,
+                "nlice": {
+                    "location": {
+                        "Ear": 100
+                    },
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            }
+        }
+    },
+    "Gonorrhea (F)": {
+        "condition_name": "Gonorrhea (F)",
+        "condition_slug": "Gonorrhea (F)",
+        "age": {
+            "age-0-9-years": {
+                "slug": "age-0-9-years",
+                "probability": 0.0
+            },
+            "age-10-19-years": {
+                "slug": "age-10-19-years",
+                "probability": 6.85
+            },
+            "age-20-29-years": {
+                "slug": "age-20-29-years",
+                "probability": 45.26
+            },
+            "age-30-39-years": {
+                "slug": "age-30-39-years",
+                "probability": 24.69
+            },
+            "age-40-49-years": {
+                "slug": "age-40-49-years",
+                "probability": 13.5
+            },
+            "age-50-59-years": {
+                "slug": "age-50-59-years",
+                "probability": 7.0
+            },
+            "age-60-69-years": {
+                "slug": "age-60-69-years",
+                "probability": 2.43
+            },
+            "age-g-70-years": {
+                "slug": "age-g-70-years",
+                "probability": 0.27
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 50
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 50
+            }
+        },
+        "incidence": "21/100000",
+        "symptoms": {
+            "Discharge": {
+                "slug": "Discharge",
+                "probability": 60.8,
+                "nlice": {
+                    "nature": {
+                        "Clear": 39.2,
+                        "Yellow-green_or_pus-like": 21.6
+                    },
+                    "location": {
+                        "Vagina": 100
+                    },
+                    "location_main": {
+                        "Pelvis_area": 100
+                    }
+                }
+            },
+            "Altered_urination": {
+                "slug": "Altered_urination",
+                "probability": 48.699999999999996,
+                "nlice": {
+                    "nature": {
+                        "Painful": 64.0,
+                        "Bloody": 5.0
+                    },
+                    "frequency": {
+                        "Nightly": 30.5
+                    }
+                }
+            },
+            "Odour": {
+                "slug": "Odour",
+                "probability": 13.5,
+                "nlice": {
+                    "location": {
+                        "Vagina": 100
+                    },
+                    "location_main": {
+                        "Pelvis_area": 100
+                    }
+                }
+            },
+            "Dyspareunia": {
+                "slug": "Dyspareunia",
+                "probability": 13.5,
+                "nlice": {}
+            },
+            "Bleeding": {
+                "slug": "Bleeding",
+                "probability": 12.2,
+                "nlice": {
+                    "location": {
+                        "Vagina": 100
+                    },
+                    "location_main": {
+                        "Pelvis_area": 100
+                    },
+                    "excitation": {
+                        "Intercourse": 100
+                    }
+                }
+            },
+            "Eruption": {
+                "slug": "Eruption",
+                "probability": 8.1,
+                "nlice": {
+                    "nature": {
+                        "Erythematous": 100
+                    },
+                    "location": {
+                        "Vagina_(Vulva)": 100
+                    },
+                    "location_main": {
+                        "Pelvis_area": 100
+                    }
+                }
+            },
+            "Altered_sensation": {
+                "slug": "Altered_sensation",
+                "probability": 8.1,
+                "nlice": {
+                    "nature": {
+                        "Itchiness": 100
+                    },
+                    "location": {
+                        "Vagina_(Vulva)": 100
+                    },
+                    "location_main": {
+                        "Pelvis_area": 100
+                    }
+                }
+            },
+            "Skin_lesion": {
+                "slug": "Skin_lesion",
+                "probability": 2.7,
+                "nlice": {
+                    "nature": {
+                        "Ulcer(ative)": 100
+                    },
+                    "location": {
+                        "Vagina": 100
+                    },
+                    "location_main": {
+                        "Pelvis_area": 100
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 6.9,
+                "nlice": {
+                    "nature": {
+                        "Discomfort": 20.0
+                    },
+                    "location": {
+                        "Vagina_(Vulva)": 59.0,
+                        "Urethra": 20.0,
+                        "Perineum": 20.0
+                    },
+                    "location_main": {
+                        "Pelvis_area": 100
+                    }
+                }
+            }
+        }
+    },
+    "Genital herpes (M)": {
+        "condition_name": "Genital herpes (M)",
+        "condition_slug": "Genital herpes (M)",
+        "age": {},
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 50
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 50
+            }
+        },
+        "incidence": "159/100000",
+        "symptoms": {
+            "Fever": {
+                "slug": "Fever",
+                "probability": 39.0,
+                "nlice": {
+                    "duration": {
+                        "2_-_5_days": 100
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 99.0,
+                "nlice": {
+                    "nature": {
+                        "Myalgia": 100
+                    },
+                    "location": {
+                        "Neck": 46.0,
+                        "Genitalia": 95.0
+                    },
+                    "location_main": {
+                        "Head": 100,
+                        "Upper_extremities": 52.0,
+                        "Lower_extremities": 49.0,
+                        "Pelvis_area": 100
+                    },
+                    "duration": {
+                        "2_-_5_days": 100
+                    }
+                }
+            },
+            "Malaise": {
+                "slug": "Malaise",
+                "probability": 34.0,
+                "nlice": {
+                    "duration": {
+                        "2_-_5_days": 100
+                    }
+                }
+            },
+            "Altered_urination": {
+                "slug": "Altered_urination",
+                "probability": 44.0,
+                "nlice": {
+                    "nature": {
+                        "Painful": 100
+                    }
+                }
+            },
+            "Discharge": {
+                "slug": "Discharge",
+                "probability": 27.0,
+                "nlice": {
+                    "location": {
+                        "Urethra": 100
+                    },
+                    "location_main": {
+                        "Pelvis_area": 100
+                    }
+                }
+            },
+            "Lymph_node_enlargement": {
+                "slug": "Lymph_node_enlargement",
+                "probability": 8.6,
+                "nlice": {
+                    "nature": {
+                        "Tender": 100
+                    },
+                    "location": {
+                        "Inguinal_area": 100
+                    },
+                    "location_main": {
+                        "Pelvis_area": 100
+                    }
+                }
+            },
+            "Skin_lesion": {
+                "slug": "Skin_lesion",
+                "probability": 76.0,
+                "nlice": {
+                    "nature": {
+                        "Ulcer(ative)": 100
+                    },
+                    "location": {
+                        "Genital_area": 100
+                    },
+                    "location_main": {
+                        "Pelvis_area": 100
+                    }
+                }
+            },
+            "Meningitis_symptoms": {
+                "slug": "Meningitis_symptoms",
+                "probability": 11.0,
+                "nlice": {}
+            }
+        }
+    },
+    "Genital herpes (F)": {
+        "condition_name": "Genital herpes (F)",
+        "condition_slug": "Genital herpes (F)",
+        "age": {},
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 50
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 50
+            }
+        },
+        "incidence": "75/100000",
+        "symptoms": {
+            "Fever": {
+                "slug": "Fever",
+                "probability": 68.0,
+                "nlice": {
+                    "duration": {
+                        "2_-_5_days": 100
+                    }
+                }
+            },
+            "Malaise": {
+                "slug": "Malaise",
+                "probability": 68.0,
+                "nlice": {
+                    "duration": {
+                        "2_-_5_days": 100
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 99.0,
+                "nlice": {
+                    "nature": {
+                        "Myalgia": 100
+                    },
+                    "location": {
+                        "Neck": 86.0,
+                        "Genitalia": 98.0
+                    },
+                    "location_main": {
+                        "Head": 100,
+                        "Upper_extremities": 88.0,
+                        "Lower_extremities": 84.0,
+                        "Pelvis_area": 100
+                    },
+                    "duration": {
+                        "2_-_5_days": 100
+                    }
+                }
+            },
+            "Meningitis_symptoms": {
+                "slug": "Meningitis_symptoms",
+                "probability": 68.0,
+                "nlice": {}
+            },
+            "Altered_urination": {
+                "slug": "Altered_urination",
+                "probability": 83.0,
+                "nlice": {
+                    "nature": {
+                        "Painful": 100
+                    }
+                }
+            },
+            "Discharge": {
+                "slug": "Discharge",
+                "probability": 85.0,
+                "nlice": {
+                    "location": {
+                        "Urethra": 100
+                    },
+                    "location_main": {
+                        "Pelvis_area": 100
+                    }
+                }
+            },
+            "Lymph_node_enlargement": {
+                "slug": "Lymph_node_enlargement",
+                "probability": 81.0,
+                "nlice": {
+                    "nature": {
+                        "Tender": 100
+                    },
+                    "location": {
+                        "Inguinal_area": 100
+                    },
+                    "location_main": {
+                        "Pelvis_area": 100
+                    }
+                }
+            },
+            "Skin_lesion": {
+                "slug": "Skin_lesion",
+                "probability": 74.0,
+                "nlice": {
+                    "nature": {
+                        "Ulcer(ative)": 100
+                    },
+                    "location": {
+                        "Genital_area": 100
+                    },
+                    "location_main": {
+                        "Pelvis_area": 100
+                    },
+                    "duration": {
+                        "12-26_days": 100
+                    }
+                }
+            }
+        }
+    },
+    "Lung cancer (NSCLC)": {
+        "condition_name": "Lung cancer (NSCLC)",
+        "condition_slug": "Lung cancer (NSCLC)",
+        "age": {
+            "age-0-40-years": {
+                "slug": "age-0-40-years",
+                "probability": 2.3
+            },
+            "age-41-74-years": {
+                "slug": "age-41-74-years",
+                "probability": 64.0
+            },
+            "age-g-75-years": {
+                "slug": "age-g-75-years",
+                "probability": 33.7
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 50.6
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 49.4
+            }
+        },
+        "incidence": "461/100000",
+        "symptoms": {
+            "Swelling": {
+                "slug": "Swelling",
+                "probability": 0.2,
+                "nlice": {
+                    "location_main": {
+                        "Face": 100
+                    }
+                }
+            },
+            "Nodule": {
+                "slug": "Nodule",
+                "probability": 0.4,
+                "nlice": {
+                    "location_main": {
+                        "Subcutaneous": 100
+                    }
+                }
+            },
+            "Lymph_node_enlargement": {
+                "slug": "Lymph_node_enlargement",
+                "probability": 10.5,
+                "nlice": {
+                    "location": {
+                        "Neck_and_supraclavicular": 93.33,
+                        "Other": 6.66
+                    },
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 4.3,
+                "nlice": {}
+            },
+            "Fatigue": {
+                "slug": "Fatigue",
+                "probability": 4.8,
+                "nlice": {}
+            },
+            "Altered_weight": {
+                "slug": "Altered_weight",
+                "probability": 8.3,
+                "nlice": {
+                    "nature": {
+                        "Weight_loss": 100
+                    }
+                }
+            },
+            "Altered_movement": {
+                "slug": "Altered_movement",
+                "probability": 0.7000000000000001,
+                "nlice": {
+                    "nature": {
+                        "Involuntary": 100
+                    },
+                    "onset": {
+                        "Sudden": 100
+                    }
+                }
+            },
+            "Dizziness": {
+                "slug": "Dizziness",
+                "probability": 1.5,
+                "nlice": {
+                    "nature": {
+                        "Light-headedness": 100
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 20.5,
+                "nlice": {
+                    "location": {
+                        "Shoulder": 3.0
+                    },
+                    "location_main": {
+                        "Head": 10.0,
+                        "Waist": 3.0,
+                        "Extremitites-upper": 3.0,
+                        "Back": 3.0
+                    }
+                }
+            },
+            "Weakness": {
+                "slug": "Weakness",
+                "probability": 0.2,
+                "nlice": {
+                    "location_main": {
+                        "Muscles": 100
+                    }
+                }
+            },
+            "Altered_breathing": {
+                "slug": "Altered_breathing",
+                "probability": 23.200000000000003,
+                "nlice": {
+                    "nature": {
+                        "Dyspnea": 91.3
+                    }
+                }
+            },
+            "Cough": {
+                "slug": "Cough",
+                "probability": 65.0,
+                "nlice": {
+                    "nature": {
+                        "Bloody_mucus": 33.0
+                    },
+                    "duration": {
+                        ">_90_days": 100
+                    }
+                }
+            }
+        }
+    },
+    "Colon cancer": {
+        "condition_name": "Colon cancer",
+        "condition_slug": "Colon cancer",
+        "age": {
+            "age-0-40-years": {
+                "slug": "age-0-40-years",
+                "probability": 2.3
+            },
+            "age-41-74-years": {
+                "slug": "age-41-74-years",
+                "probability": 64.0
+            },
+            "age-g-75-years": {
+                "slug": "age-g-75-years",
+                "probability": 33.7
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 50.6
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 49.4
+            }
+        },
+        "incidence": "461/100000",
+        "symptoms": {
+            "Bleeding": {
+                "slug": "Bleeding",
+                "probability": 43.9,
+                "nlice": {
+                    "location": {
+                        "Rectum_/_Anal_region": 100
+                    },
+                    "location_main": {
+                        "Pelvis_region": 100
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 38.5,
+                "nlice": {
+                    "location_main": {
+                        "Abdomen": 100
+                    }
+                }
+            },
+            "Altered_weight": {
+                "slug": "Altered_weight",
+                "probability": 30.8,
+                "nlice": {
+                    "vas": {
+                        ">_5_kg": 100
+                    },
+                    "nature": {
+                        "Weight_loss": 100
+                    }
+                }
+            },
+            "Altered_stool": {
+                "slug": "Altered_stool",
+                "probability": 99.1,
+                "nlice": {
+                    "nature": {
+                        "Constipation": 24.1,
+                        "Diarrhea": 24.1,
+                        "Bloody": 44.3,
+                        "Narrow_shape": 7.0
+                    }
+                }
+            },
+            "Nausea": {
+                "slug": "Nausea",
+                "probability": 17.1,
+                "nlice": {}
+            },
+            "Fatigue": {
+                "slug": "Fatigue",
+                "probability": 16.0,
+                "nlice": {}
+            },
+            "Altered_apettite": {
+                "slug": "Altered_apettite",
+                "probability": 14.799999999999999,
+                "nlice": {
+                    "nature": {
+                        "Decreased_(Anorexia)": 100
+                    }
+                }
+            },
+            "Swelling": {
+                "slug": "Swelling",
+                "probability": 10.8,
+                "nlice": {
+                    "location_main": {
+                        "Abdomen": 100
+                    }
+                }
+            }
+        }
+    },
+    "Testicular cancer": {
+        "condition_name": "Testicular cancer",
+        "condition_slug": "Testicular cancer",
+        "age": {},
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 100.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 0.0
+            }
+        },
+        "incidence": "68/1000000",
+        "symptoms": {
+            "Mass": {
+                "slug": "Mass",
+                "probability": 96.5,
+                "nlice": {
+                    "nature": {
+                        "Painful": 2.0
+                    },
+                    "location": {
+                        "Scrotum": 98.0
+                    },
+                    "location_main": {
+                        "Pelvis_region": 100,
+                        "Abdomen": 2.0
+                    }
+                }
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 1.7999999999999998,
+                "nlice": {}
+            },
+            "Altered_breathing": {
+                "slug": "Altered_breathing",
+                "probability": 0.8,
+                "nlice": {}
+            },
+            "Gynaecomastia": {
+                "slug": "Gynaecomastia",
+                "probability": 0.5,
+                "nlice": {}
+            }
+        }
+    },
+    "Breast cancer": {
+        "condition_name": "Breast cancer",
+        "condition_slug": "Breast cancer",
+        "age": {
+            "age-0-20-years": {
+                "slug": "age-0-20-years",
+                "probability": 0.0
+            },
+            "age-20-34-years": {
+                "slug": "age-20-34-years",
+                "probability": 1.8
+            },
+            "age-35-44-years": {
+                "slug": "age-35-44-years",
+                "probability": 9.1
+            },
+            "age-45-54-years": {
+                "slug": "age-45-54-years",
+                "probability": 21.6
+            },
+            "age-55-64-years": {
+                "slug": "age-55-64-years",
+                "probability": 25.6
+            },
+            "age-65-74-years": {
+                "slug": "age-65-74-years",
+                "probability": 21.9
+            },
+            "age-75-84-years": {
+                "slug": "age-75-84-years",
+                "probability": 14.2
+            },
+            "age-g-84-years": {
+                "slug": "age-g-84-years",
+                "probability": 5.7
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 0.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 100.0
+            }
+        },
+        "incidence": "431/1000000",
+        "symptoms": {
+            "Mass": {
+                "slug": "Mass",
+                "probability": 44.5,
+                "nlice": {
+                    "nature": {
+                        "Painful": 2.5
+                    },
+                    "location": {
+                        "Breast": 94.0,
+                        "Armpit": 5.0
+                    },
+                    "location_main": {
+                        "Chest": 100
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 34.300000000000004,
+                "nlice": {
+                    "location": {
+                        "Breast": 100
+                    },
+                    "location_main": {
+                        "Chest": 100
+                    }
+                }
+            },
+            "Discharge": {
+                "slug": "Discharge",
+                "probability": 5.800000000000001,
+                "nlice": {
+                    "location": {
+                        "Nipple": 100
+                    },
+                    "location_main": {
+                        "Chest": 100
+                    }
+                }
+            },
+            "Skin_retraction": {
+                "slug": "Skin_retraction",
+                "probability": 4.1000000000000005,
+                "nlice": {
+                    "location": {
+                        "Nipple-skin_or_breast": 100
+                    },
+                    "location_main": {
+                        "Chest": 100
+                    }
+                }
+            }
+        }
+    },
+    "Ovarian cancer": {
+        "condition_name": "Ovarian cancer",
+        "condition_slug": "Ovarian cancer",
+        "age": {
+            "age-12-26-years": {
+                "slug": "age-12-26-years",
+                "probability": 0.7
+            },
+            "age-26-29-years": {
+                "slug": "age-26-29-years",
+                "probability": 0.7
+            },
+            "age-30-50-years": {
+                "slug": "age-30-50-years",
+                "probability": 20.1
+            },
+            "age-50-60-years": {
+                "slug": "age-50-60-years",
+                "probability": 20.1
+            },
+            "age-61-72-years": {
+                "slug": "age-61-72-years",
+                "probability": 28.5
+            },
+            "age-g-72-years": {
+                "slug": "age-g-72-years",
+                "probability": 28.5
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 0.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 100.0
+            }
+        },
+        "incidence": "59/1000000",
+        "symptoms": {
+            "Swelling": {
+                "slug": "Swelling",
+                "probability": 61.0,
+                "nlice": {
+                    "location_main": {
+                        "Abdomen": 100
+                    }
+                }
+            },
+            "Bloating": {
+                "slug": "Bloating",
+                "probability": 56.99999999999999,
+                "nlice": {}
+            },
+            "Fatigue": {
+                "slug": "Fatigue",
+                "probability": 47.0,
+                "nlice": {}
+            },
+            "Indigestion": {
+                "slug": "Indigestion",
+                "probability": 31.0,
+                "nlice": {}
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 85.0,
+                "nlice": {
+                    "location_main": {
+                        "Lower_back": 27.0,
+                        "Pelvis_region": 30.5
+                    },
+                    "excitation": {
+                        "Intercourse": 20.0
+                    }
+                }
+            },
+            "Altered_urination": {
+                "slug": "Altered_urination",
+                "probability": 27.0,
+                "nlice": {
+                    "frequency": {
+                        "Frequent": 100
+                    }
+                }
+            },
+            "Altered_stool": {
+                "slug": "Altered_stool",
+                "probability": 26.0,
+                "nlice": {
+                    "nature": {
+                        "Constipation": 96.0
+                    }
+                }
+            }
+        }
+    },
+    "Oesophageal carcinoma": {
+        "condition_name": "Oesophageal carcinoma",
+        "condition_slug": "Oesophageal carcinoma",
+        "age": {
+            "age-0-30-years": {
+                "slug": "age-0-30-years",
+                "probability": 1.0
+            },
+            "age-50-70-years": {
+                "slug": "age-50-70-years",
+                "probability": 21.0
+            },
+            "age-g-70-years": {
+                "slug": "age-g-70-years",
+                "probability": 78.0
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 50
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 50
+            }
+        },
+        "incidence": "1015/10000000",
+        "symptoms": {
+            "Dysphagia": {
+                "slug": "Dysphagia",
+                "probability": 83.0,
+                "nlice": {}
+            },
+            "Altered_weight": {
+                "slug": "Altered_weight",
+                "probability": 57.99999999999999,
+                "nlice": {
+                    "nature": {
+                        "Weight_loss": 100
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 17.0,
+                "nlice": {
+                    "location_main": {
+                        "Abdomen": 53.1,
+                        "Chest": 41.1,
+                        "Back": 5.8
+                    }
+                }
+            },
+            "Bleeding": {
+                "slug": "Bleeding",
+                "probability": 6.5,
+                "nlice": {
+                    "nature": {
+                        "Black_(old_blood)": 100
+                    },
+                    "location": {
+                        "Rectum_/_Anal_region": 100
+                    },
+                    "location_main": {
+                        "Pelvis_region": 100
+                    }
+                }
+            },
+            "Reflux": {
+                "slug": "Reflux",
+                "probability": 5.5,
+                "nlice": {}
+            },
+            "Nausea": {
+                "slug": "Nausea",
+                "probability": 5.0,
+                "nlice": {}
+            },
+            "Vomiting": {
+                "slug": "Vomiting",
+                "probability": 5.0,
+                "nlice": {}
+            },
+            "Voice_change": {
+                "slug": "Voice_change",
+                "probability": 2.0,
+                "nlice": {
+                    "nature": {
+                        "Hoarse": 100
+                    }
+                }
+            },
+            "Fatigue": {
+                "slug": "Fatigue",
+                "probability": 1.0,
+                "nlice": {}
+            },
+            "Mass": {
+                "slug": "Mass",
+                "probability": 1.0,
+                "nlice": {
+                    "nature": {
+                        "Painful": 50.0
+                    },
+                    "location_main": {
+                        "Neck": 100
+                    }
+                }
+            }
+        }
+    },
+    "Bladder cancer": {
+        "condition_name": "Bladder cancer",
+        "condition_slug": "Bladder cancer",
+        "age": {
+            "age-0-30-years": {
+                "slug": "age-0-30-years",
+                "probability": 1.0
+            },
+            "age-50-70-years": {
+                "slug": "age-50-70-years",
+                "probability": 21.0
+            },
+            "age-g-70-years": {
+                "slug": "age-g-70-years",
+                "probability": 78.0
+            }
+        },
+        "sex": {
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 16.21
+            },
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 83.78
+            }
+        },
+        "incidence": "185/1000000",
+        "symptoms": {
+            "Altered_urination": {
+                "slug": "Altered_urination",
+                "probability": 99.0,
+                "nlice": {
+                    "nature": {
+                        "Bloody": 34.0,
+                        "Painful": 34.0
+                    },
+                    "frequency": {
+                        "Nightly": 29.6
+                    }
+                }
+            },
+            "Urgency_to_urinate": {
+                "slug": "Urgency_to_urinate",
+                "probability": 1,
+                "nlice": {
+                    "nature": {
+                        "Urinary": 100
+                    }
+                }
+            }
+        }
+    },
+    "Iron deficiency anaemia": {
+        "condition_name": "Iron deficiency anaemia",
+        "condition_slug": "Iron deficiency anaemia",
+        "age": {},
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 21.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 79.0
+            }
+        },
+        "incidence": "1058/100000",
+        "symptoms": {
+            "Discoloration": {
+                "slug": "Discoloration",
+                "probability": 47.5,
+                "nlice": {
+                    "nature": {
+                        "White": 100
+                    }
+                }
+            },
+            "Fatigue": {
+                "slug": "Fatigue",
+                "probability": 44.0,
+                "nlice": {}
+            },
+            "Altered_breathing": {
+                "slug": "Altered_breathing",
+                "probability": 77.0,
+                "nlice": {
+                    "nature": {
+                        "Dyspnea": 100
+                    },
+                    "excitation": {
+                        "On_exercise": 100
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 80.0,
+                "nlice": {
+                    "location_main": {
+                        "Head": 78.0,
+                        "Chest": 75.0
+                    }
+                }
+            },
+            "Alopecia": {
+                "slug": "Alopecia",
+                "probability": 30.0,
+                "nlice": {}
+            },
+            "Inflammation": {
+                "slug": "Inflammation",
+                "probability": 27.0,
+                "nlice": {
+                    "nature": {
+                        "Atrophic": 100
+                    },
+                    "location": {
+                        "Tongue": 100
+                    },
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            },
+            "Altered_movement": {
+                "slug": "Altered_movement",
+                "probability": 24.0,
+                "nlice": {
+                    "nature": {
+                        "Increased_restlessness": 100
+                    },
+                    "location_main": {
+                        "Legs": 100
+                    }
+                }
+            },
+            "Altered_cardiac_sounds": {
+                "slug": "Altered_cardiac_sounds",
+                "probability": 10.0,
+                "nlice": {
+                    "nature": {
+                        "Murmur": 100
+                    }
+                }
+            },
+            "Altered_cardiac_rhythm": {
+                "slug": "Altered_cardiac_rhythm",
+                "probability": 9.0,
+                "nlice": {
+                    "nature": {
+                        "Increased": 100
+                    }
+                }
+            },
+            "Altered_mental_state": {
+                "slug": "Altered_mental_state",
+                "probability": 30.3,
+                "nlice": {
+                    "nature": {
+                        "Loss_of_consciousness": 0.9,
+                        "Cognitive_dysfunction": 99.1
+                    }
+                }
+            },
+            "Dizziness": {
+                "slug": "Dizziness",
+                "probability": 60.0,
+                "nlice": {
+                    "nature": {
+                        "Light-headedness": 100
+                    }
+                }
+            }
+        }
+    },
+    "Vitamin D deficiency": {
+        "condition_name": "Vitamin D deficiency",
+        "condition_slug": "Vitamin D deficiency",
+        "age": {},
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 50
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 50
+            }
+        },
+        "incidence": NaN,
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 41.4,
+                "nlice": {
+                    "location_main": {
+                        "Lower_extremities": 32.4,
+                        "Chest": 67.5
+                    }
+                }
+            },
+            "Bone_pain": {
+                "slug": "Bone_pain",
+                "probability": 85.0,
+                "nlice": {}
+            },
+            "Weakness": {
+                "slug": "Weakness",
+                "probability": 85.0,
+                "nlice": {
+                    "location": {
+                        "Shoulder": 50.0
+                    },
+                    "location_main": {
+                        "Upper_extremities": 100,
+                        "Pelvis_region": 50.0
+                    }
+                }
+            },
+            "Disability": {
+                "slug": "Disability",
+                "probability": 60.0,
+                "nlice": {
+                    "nature": {
+                        "Functional": 100.0
+                    }
+                }
+            }
+        }
+    },
+    "Vitamin B12 deficiency": {
+        "condition_name": "Vitamin B12 deficiency",
+        "condition_slug": "Vitamin B12 deficiency",
+        "age": {},
+        "sex": {
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 65.0
+            },
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 35.0
+            }
+        },
+        "incidence": NaN,
+        "symptoms": {
+            "Pain": {
+                "slug": "Pain",
+                "probability": 65.0,
+                "nlice": {
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            },
+            "Seizure": {
+                "slug": "Seizure",
+                "probability": 12.0,
+                "nlice": {}
+            },
+            "Dizziness": {
+                "slug": "Dizziness",
+                "probability": 60.0,
+                "nlice": {
+                    "nature": {
+                        "Light-headedness": 100
+                    }
+                }
+            },
+            "Altered_mental_state": {
+                "slug": "Altered_mental_state",
+                "probability": 5.0,
+                "nlice": {
+                    "nature": {
+                        "Loss_of_conciousness": 2.0
+                    }
+                }
+            }
+        }
+    },
+    "Wernicke-Korsakoff complex:": {
+        "condition_name": "Wernicke-Korsakoff complex:",
+        "condition_slug": "Wernicke-Korsakoff complex:",
+        "age": {},
+        "sex": {
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 37.0
+            },
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 63.0
+            }
+        },
+        "incidence": "100/1000000",
+        "symptoms": {
+            "Altered_movement": {
+                "slug": "Altered_movement",
+                "probability": 25.0,
+                "nlice": {
+                    "nature": {
+                        "Nystagmus": 40.0,
+                        "Ataxia": 59.6
+                    },
+                    "location": {
+                        "Eyes": 100
+                    },
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            },
+            "Paresis_/_Paralysis": {
+                "slug": "Paresis_/_Paralysis",
+                "probability": 19.0,
+                "nlice": {
+                    "location": {
+                        "Eyes": 100
+                    },
+                    "location_main": {
+                        "Head": 100
+                    }
+                }
+            },
+            "Altered_mental_state": {
+                "slug": "Altered_mental_state",
+                "probability": 98.0,
+                "nlice": {
+                    "nature": {
+                        "Disorientation": 42.0
+                    }
+                }
+            }
+        }
+    },
+    "Female cystitis": {
+        "condition_name": "Female cystitis",
+        "condition_slug": "Female cystitis",
+        "age": {
+            "age-18-24-years": {
+                "slug": "age-18-24-years",
+                "probability": 80.0
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 50
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 50
+            }
+        },
+        "incidence": "1200/100000",
+        "symptoms": {
+            "Altered_urination": {
+                "slug": "Altered_urination",
+                "probability": 96.0,
+                "nlice": {
+                    "nature": {
+                        "Frequent": 49.35,
+                        "Painful": 50.6
+                    }
+                }
+            },
+            "Urgency_to_urinate": {
+                "slug": "Urgency_to_urinate",
+                "probability": 48.0,
+                "nlice": {}
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 12.0,
+                "nlice": {
+                    "location": {
+                        "Vagina": 100
+                    },
+                    "location_main": {
+                        "Pelvis_region": 100
+                    }
+                }
+            },
+            "Discharge": {
+                "slug": "Discharge",
+                "probability": 8.0,
+                "nlice": {
+                    "location": {
+                        "Vagina": 100
+                    },
+                    "location_main": {
+                        "Pelvis_region": 100
+                    }
+                }
+            },
+            "Self-diagnosis": {
+                "slug": "Self-diagnosis",
+                "probability": 89.0,
+                "nlice": {
+                    "nature": {
+                        "Cystitis": 100
+                    }
+                }
+            }
+        }
+    },
+    "Acute pyelonefritis": {
+        "condition_name": "Acute pyelonefritis",
+        "condition_slug": "Acute pyelonefritis",
+        "age": {
+            "age-18-24-years": {
+                "slug": "age-18-24-years",
+                "probability": 80.0
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 0.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 100.0
+            }
+        },
+        "incidence": "1200/100000",
+        "symptoms": {
+            "Altered_urination": {
+                "slug": "Altered_urination",
+                "probability": 92.0,
+                "nlice": {
+                    "nature": {
+                        "Purulent": 45.0,
+                        "Bloody": 55.0
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 93.0,
+                "nlice": {
+                    "location": {
+                        "Lower_abdomen": 43.2,
+                        "Flanks": 56.8
+                    },
+                    "location_main": {
+                        "Abdomen": 100,
+                        "Back": 100
+                    }
+                }
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 95.0,
+                "nlice": {}
+            }
+        }
+    },
+    "Upper urinary tract infection": {
+        "condition_name": "Upper urinary tract infection",
+        "condition_slug": "Upper urinary tract infection",
+        "age": {
+            "age-18-24-years": {
+                "slug": "age-18-24-years",
+                "probability": 80.0
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 0.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 100.0
+            }
+        },
+        "incidence": "1200/100000",
+        "symptoms": {
+            "Altered_urination": {
+                "slug": "Altered_urination",
+                "probability": 95.0,
+                "nlice": {
+                    "nature": {
+                        "Painful": 53.8,
+                        "Pollakisuria": 52.4
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 93.0,
+                "nlice": {
+                    "location": {
+                        "Lower_abdomen": 46.1,
+                        "Flanks": 53.8
+                    },
+                    "location_main": {
+                        "Abdomen": 100,
+                        "Back": 100
+                    }
+                }
+            },
+            "Fever": {
+                "slug": "Fever",
+                "probability": 79.0,
+                "nlice": {}
+            }
+        }
+    },
+    "Lower urinary tract infection": {
+        "condition_name": "Lower urinary tract infection",
+        "condition_slug": "Lower urinary tract infection",
+        "age": {
+            "age-18-24-years": {
+                "slug": "age-18-24-years",
+                "probability": 80.0
+            }
+        },
+        "sex": {
+            "sex-male": {
+                "slug": "sex-male",
+                "probability": 0.0
+            },
+            "sex-female": {
+                "slug": "sex-female",
+                "probability": 100.0
+            }
+        },
+        "incidence": "1200/100000",
+        "symptoms": {
+            "Altered_urination": {
+                "slug": "Altered_urination",
+                "probability": 76.0,
+                "nlice": {
+                    "nature": {
+                        "Pollakisuria": 100
+                    }
+                }
+            },
+            "Pain": {
+                "slug": "Pain",
+                "probability": 45.0,
+                "nlice": {
+                    "location": {
+                        "Lower_abdomen": 100
+                    },
+                    "location_main": {
+                        "Abdomen": 100
+                    }
+                }
+            }
+        }
+    }
+}
